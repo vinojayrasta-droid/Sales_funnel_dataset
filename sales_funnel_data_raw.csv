@@ -1,0 +1,1058 @@
+Lead_ID,Lead_Date,Company_Name,Region,City,Equipment_Type,Lead_Source,Sales_Rep,Current_Stage,Quotation_Date,Negotiation_Date,Closing_Date,Deal_Value_IDR,Lost_At_Stage,Lost_Reason,Stage_Order,Reached_Lead,Reached_Quotation,Reached_Negotiation,Reached_Closed_Won
+LD-0051,2022-10-29,PT Mitra Konstruksi 052,Jawa,Gresik,Skylift,Email,Sari Rahmawati,Closed Won,2022-10-30,2022-11-04,2022-11-08,25900000.0,,,4,1,1,1,1
+LD-0014,2022-08-12,PT Mitra Konstruksi 015,jawa,Semarang,Scissor Lift,EMAIL,Sari Rahmawati,closed won,2022-08-13,2022-08-17,2022-08-22,9300000.0,,,4,1,1,1,1
+LD-0137,2023-02-27,PT Mitra Konstruksi 138,Jawa,Jakarta,Crane,Website,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0402,20/02/2024,PT Mitra Konstruksi 403,Jawa,Bandung,Scissor Lift,Website,Budi Santoso,Closed Lost,2024-02-23,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0842,2025-11-05,PT Mitra Konstruksi 843,Sumatra,Medan,Crane,WhatsApp,Rina Wulandari,Closed Won,2025-11-11,2025-11-20,2025-11-28,30500000.0,,,4,1,1,1,1
+LD-0779,2025-07-11,PT Mitra Konstruksi 780,Jawa,Surabaya,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0281,2023-09-19,PT Mitra Konstruksi 282,Jawa,Gresik,Scissor Lift,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0072,2022-11-28, PT Mitra Konstruksi 073 ,Jawa,Sidoarjo   , Crane ,WhatsApp,  Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0107,10/01/2023,PT Mitra Konstruksi 108,Sumatra,Palembang,Scissor Lift,Website,Rina Wulandari,Closed Lost,2023-01-16,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0817,2025-09-21,PT Mitra Konstruksi 818,Jawa,Gresik,ScissorLift,E-mail,Rina W.,Closed Won,2025-09-27,2025-10-01,2025-10-12,6700000.0,,,4,1,1,1,1
+LD-0449,2024-05-22,PT Mitra Konstruksi 450,Jawa,Sidoarjo,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0891,2026-01-24,PT Mitra Konstruksi 892,Jawa,Sidoarjo,Skylift,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0248,2023-08-28,PT Mitra Konstruksi 249,Jawa,Semarang,Crane,Whats App,Fajar Nugroho,Closed Won,01.09.2023,2023-09-08,2023-09-13,26900000.0,,,4,1,1,1,1
+LD-0623,2024-12-15,PT Mitra Konstruksi 624,Jawa,Semarang,Scissor Lift,Email,Eko Kurniawan,Closed Lost,2024-12-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0335,2023-11-18,PT Mitra Konstruksi 336,Jawa,Gresik,Crane,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0857,2025-11-09,PT Mitra Konstruksi 858,Bali,Denpasar,Scissor Lift,web site,Sari Rahmawati,Closed Lost,2025-11-11,2025-11-15,,,Negotiation,Price too high,5,1,1,1,0
+LD-0747,05/06/2025,PT Mitra Konstruksi 748,Jawa,Sidoarjo,Scissor Lift,Email,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0387,2024-02-11,PT Mitra Konstruksi 388,Bali,Denpasar,Scissor Lift,WhatsApp,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0120,2023-01-04,PT Mitra Konstruksi 121,bali,Denpasar,BOOM LIFT,WHATSAPP,Eko Kurniawan,Closed Won,2023-01-05,2023-01-10,2023-01-21,12700000.0,,,4,1,1,1,1
+LD-0952,2026-04-12,PT Mitra Konstruksi 953,Jawa,,Boom Lift,,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0409,2024-03-18,PT Mitra Konstruksi 410,SUMATRA,Batam,Boom Lift,WHATSAPP,Andi Pratama,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0993,10/06/2026,PT Mitra Konstruksi 994,Bali,Denpasar,Skylift,WhatsApp,Budi Santoso,Closed Lost,2026-06-11,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0394,2024-02-11,PT Mitra Konstruksi 395,Jawa,Bandung,Carmix,Website,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0563,11-Oct-2024,PT Mitra Konstruksi 564,Bali,Badung,Skylift,Google Ads,Eko Kurniawan,Lead In,,,,,,,1,1,0,0,0
+LD-0771,2025-07-29,PT Mitra Konstruksi 772,Bali,Badung,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0219,2023-06-06,PT Mitra Konstruksi 220,Jawa,Bandung,Crane,WhatsApp,Sari Rahmawati,Closed Lost,2023-06-11,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0004,2022-08-30,PT Mitra Konstruksi 005,bali,Gianyar,scissor lift,REFERRAL,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0599,2024-11-23,PT Mitra Konstruksi 600,Jawa,Jakarta,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0375,03.01.2024,PT Mitra Konstruksi 376,BALI,Denpassar,scissor lift,Website,Andi Pratama,CLOSED LOST,2024-01-05,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0388,2024-02-23,PT Mitra Konstruksi 389,Bali,Gianyar,Boom Lift,referal,Eko Kurniawan,Closed Lost,2024-02-24,2024-03-02,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0595,2024-11-30,PT Mitra Konstruksi 596,,,TELEHANDLER,,,Closed Lost,05.12.2024,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0637,2025-01-24,PT Mitra Konstruksi 638,jawa,Surabaya,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0718,2025-04-10,PT Mitra Konstruksi 719,Jawa,Gresik,Crane,Google Ads,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0458,2024-05-15,PT Mitra Konstruksi 459   ,Jawa,  Bandung,Skylift   ,Email,  Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0749,2025-06-16,PT  Mitra Konstruksi 750,Bali,Badung,Skylift   ,Google Ads,  Dewi Lestari,Closed Lost,2025-06-19,2025-06-25,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0369,2024-01-24,PT Mitra Konstruksi 370,Sumatra,Medan,Telehandler,WhatsApp,Vino Jayrasta,Closed Lost,2024-01-30,2024-02-03,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0403,2024-03-16,PT Mitra Konstruksi 404,Jawa,Jakarta,Scissor Lift,Google Ads,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0194,2023-05-30,PT Mitra Konstruksi 195,Jawa,Semarang,Crane,G-Ads,Dewi Lestari,Closed Lost,2023-06-04,2023-06-10,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0716,2025-04-05,PT Mitra Konstruksi 717,Sumatra,Batam,boom lift,Whats App,Dewi Lestari,Closed Lost,2025-04-11,2025-04-18,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0556,2024-09-25,PT Mitra Konstruksi 557,JAWA,Sidoarjo,skylift,google ads,Budi Santoso,Closed Won,2024-09-26,2024-09-29,2024-10-07,11300000.0,,,4,1,1,1,1
+LD-0245,17-Jul-2023,PT Mitra Konstruksi 246,Bali,Gianyar,Boom Lift,Email,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0976,2026-05-22,PT Mitra Konstruksi 977,Jawa,Bandung,Skylift,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0243,2023-07-03,PT Mitra Konstruksi 244,Bali,Gianyar,Boom Lift,Email,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0189,2023-05-03,PT Mitra Konstruksi 190,Jawa,Surabaya,Skylift,WhatsApp,Rina Wulandari,Closed Lost,2023-05-07,2023-05-12,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0994,2026-06-14,PT Mitra Konstruksi 995,Sumatra,Medan,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,2026-06-16,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0173,2023-04-13,PT Mitra Konstruksi 174,Bali,Badung,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,2023-04-15,2023-04-18,,,Negotiation,Price too high,5,1,1,1,0
+LD-0321,2023-11-13,PT Mitra Konstruksi 322,Sumatra,Batam,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Won,2023-11-14,2023-11-23,2023-11-28,6700000.0,,,4,1,1,1,1
+LD-0355,2024-01-05,PT Mitra Konstruksi 356,Bali,Gianyar,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1016,2026-07-16,PT Mitra Konstruksi 1017,Jawa,Semarang,Boom Lift,Google Ads,Vino Jayrasta,Closed Won,2026-07-18,2026-07-24,2026-07-31,24600000.0,,,4,1,1,1,1
+LD-0015,2022-08-09,PT Mitra Konstruksi 016,Jawa,Semarang,Scissor Lift,Google Ads,Andi Pratama,Closed Won,2022-08-13,2022-08-17,2022-08-26,11400000.0,,,4,1,1,1,1
+LD-0312,2023-11-10,PT  Mitra Konstruksi 313,Jawa,  Semarang,  Skylift,Email, Rina Wulandari ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0428,2024-04-12,  PT Mitra Konstruksi 429,Jawa,Semarang   ,Boom  Lift,Google Ads,Andi Pratama   ,Closed Lost,2024-04-18,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0845,2025-11-30,PT Mitra Konstruksi 846,Jawa,Sidoarjo,Boom Lift,Website,Vino Jayrasta,Closed Lost,2025-12-01,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0389,2024-02-11, PT Mitra Konstruksi 390 ,Sumatra,  Batam,Skylift   ,WhatsApp, Eko Kurniawan ,Closed Lost,2024-02-16,2024-02-20,,,Negotiation,Price too high,5,1,1,1,0
+LD-0443,10-Apr-2024,PT Mitra Konstruksi 444,Jawa,Gresik,Crane,Referral,Andi Pratama,Closed Lost,2024-04-16,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0625,2024-12-11,PT Mitra Konstruksi 626,Bali,Denpasar,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2024-12-13,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0370,2024-01-15,PT Mitra Konstruksi 371,Jawa,Bandung,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2024-01-17,2024-01-24,,,Negotiation,Price too high,5,1,1,1,0
+LD-0865,2025-12-20,PT Mitra Konstruksi 866,Bali,Denpasar,Crane,Google Ads,Rina Wulandari,Closed Lost,2025-12-24,2025-12-31,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0076,2022-11-27,PT Mitra Konstruksi 077,Jawa,Bandung,Scissor Lift,Referral,Vino Jayrasta,Closed Lost,2022-12-03,08-Dec-2022,,,Negotiation,Price too high,5,1,1,1,0
+LD-0364,2024-01-11,PT Mitra Konstruksi 365,Jawa,Semarrang,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,2024-01-14,2024-01-22,,,Negotiation,Price too high,5,1,1,1,0
+LD-0680,2025-02-20,PT Mitra Konstruksi 681,Jawa,Bandung,Scissor Lift,Google Ads,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0903,2026-01-26,PT Mitra Konstruksi 904,Jawa,Gresikk,Scissor Lift,WhatsApp,Dewi Lestari,Closed Won,2026-01-30,2026-02-01,2026-02-11,18800000.0,,,4,1,1,1,1
+LD-0608,2024-12-29,PT Mitra Konstruksi 609,Jawa,Jakarta,Crane,WhatsApp,Fajar Nugroho,Closed Won,2024-12-31,2025-01-03,2025-01-16,41400000.0,,,4,1,1,1,1
+LD-0567,2024-10-16,PT Mitra Konstruksi 568,Jawa,Bandung,Scissor Lift,Google Ads,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0011,2022-08-03,PT Mitra Konstruksi 012,Jawa,Bandung,Carmix,email,Dewi Lestari,Closed Lost,2022-08-09,2022-08-11,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0229,2023-06-21,PT Mitra Konstruksi 230,Jawa,Semarang,Crane,Website,Rina Wulandari,Closed Lost,2023-06-26,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0710,2025-04-13,PT Mitra Konstruksi 711,Jawa,Surabaya,Scissor Lift,Google Ads,Dewi Lestari,Closed Won,2025-04-16,2025-04-18,28.04.2025,15000000.0,,,4,1,1,1,1
+LD-0040,2022-09-10,PT Mitra Konstruksi 041,Sumatra,Palembang,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2022-09-15,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0803,2025-08-09,PT Mitra Konstruksi 804,Sumatra,Medan,Boom Lift,Referral,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0962,2026-04-23,PT Mitra Konstruksi 963,Sumatra,Medan,Scissor Lift,Referral,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0958,2026-04-23,PT Mitra Konstruksi 959,Jawa,Semarang,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,28-Apr-2026,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0578,2024-10-23,PT Mitra Konstruksi 579,Jawa,Jakarta,Crane,WhatsApp,Budi Santoso,Closed Lost,2024-10-27,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0923,2026-02-26,PT Mitra Konstruksi 924,Jawa,Sidoarjo,Carmix,web site,Sari R.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0602,2024-12-04,PT Mitra Konstruksi 603,Jawa,Jakarta,Carmix,Email,Budi Santoso,Closed Lost,2024-12-05,2024-12-14,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0462,2024-05-02,PT Mitra Konstruksi 463,Sumatra,Palembang,Boomlift,web site,Andi P,Closed Lost,2024-05-07,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0933,30/03/2026,PT Mitra Konstruksi 934,Bali,Gianyar,BOOM LIFT ,Google Adwords,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0983,2026-05-12,PT Mitra Konstruksi 984,JAWA,Jakarta,CRANE,GOOGLE ADS,Sari Rahmawati,lead in,,,,,,,1,1,0,0,0
+LD-0080,2022-11-30,PT Mitra Konstruksi 081,Jawa,Jakarta,Scissor Lift,Google Ads,Rina Wulandari,Closed Won,05/12/2022,2022-12-10,2022-12-19,10500000.0,,,4,1,1,1,1
+LD-0371,2024-01-08,PT Mitra Konstruksi 372,Sumatra,Medan,Carmix,Google Ads,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0635,2025-01-09,PT Mitra Konstruksi 636,Jawa,,Scissor Lift,,,Closed Won,2025-01-11,2025-01-18,2025-01-25,7700000.0,,,4,1,1,1,1
+LD-0653,2025-01-30,PT Mitra Konstruksi 654,Jawa,Sidoarjo,Carmix,Google Ads,Rina Wulandari,Closed Won,2025-02-03,2025-02-11,2025-02-18,20300000.0,,,4,1,1,1,1
+LD-0012,2022-08-10,PT Mitra Konstruksi 013,Jawa,,Boom Lift,,Andi Pratama,Closed Won,2022-08-16,24.08.2022,05-Sep-2022,17600000.0,,,4,1,1,1,1
+LD-0423,2024-03-30,PT Mitra Konstruksi 424,JAWA,Jakarta,boom lift,Google Ads,Andi Pratama,closed lost,2024-04-05,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0477,2024-06-19, PT Mitra Konstruksi 478 ,Jawa,Semarang   ,  Boom Lift,Website, Eko Kurniawan ,Closed Lost,2024-06-25,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0788,15-Jul-2025,PT Mitra Konstruksi 789,Jawa,Surabaya,Boom Lift,Email,Fajar Nugroho,Closed Won,2025-07-20,2025-07-28,2025-08-10,25200000.0,,,4,1,1,1,1
+LD-0524,2024-08-06,PT Mitra Konstruksi 525,Jawa,Sidoarjo,Skylift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0123,2023-02-22,PT Mitra Konstruksi 124,Sumatra,Medan,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,2023-02-25,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0352,2024-01-31,PT Mitra Konstruksi 353,Jawa,Semarang,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2024-02-03,2024-02-05,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0057,2022-10-26,PT Mitra Konstruksi 058,Jawa,Jakarta,Boom Lift,Referral,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0322,2023-11-11,PT Mitra Konstruksi 323,Jawa,Bandung,Scissor Lift,Web,Andi Pratama,Closed Lost,2023-11-13,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0591,2024-11-12,PT Mitra Konstruksi 592,Jawa,Jakarta,Telehandler,WhatsApp,Fajar Nugroho,Closed Won,2024-11-16,22-Nov-2024,2024-11-08,20200000.0,,,4,1,1,1,1
+LD-0537,2024-09-20, PT Mitra Konstruksi 538 ,Sumatra, Batam ,Scissor  Lift,whatsapp, Eko Kurniawan ,Closed Lost,2024-09-22,2024-09-29,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0988,2026-05-16,PT Mitra Konstruksi 989,JAWA,Semarang,skylift,whatsapp,Andi Pratama,closed won,2026-05-20,2026-05-22,2026-05-26,12000000.0,,,4,1,1,1,1
+LD-0225,2023-06-24,PT Mitra Konstruksi 226,Jawa,Bandung,Boom Lift,Google Ads,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0914,2026-02-04,PT Mitra Konstruksi 915,Bali,Denpasar,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0287,2023-10-13,PT Mitra Konstruksi 288   ,Bali,  Gianyar, Boom Lift ,WhatsApp,Fajar  Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0284,2023-09-07,PT Mitra Konstruksi 285,Jawa,Jakarta,Crane,Website,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0969,2026-05-25,PT Mitra Konstruksi 970,Sumatra,Palembang,Boom Lift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0717,2025-04-23,PT Mitra Konstruksi 718,Jawa,Semarang,Skylift,Website,Dewi Lestari,Closed Lost,2025-04-27,2025-05-04,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0780,2025-07-07,PT Mitra Konstruksi 781,Jawa,Gresik,Boom Lift,Google Ads,Vino Jayrasta,Closed Won,2025-07-09,16/07/2025,2025-07-26,12800000.0,,,4,1,1,1,1
+LD-0953,26-Apr-2026,PT Mitra Konstruksi 954   ,Bali,Gianyar   ,Scissor Lift   ,Google Ads,Vino Jayrasta   ,Closed Lost,2026-04-30,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0584,2024-11-10,PT Mitra Konstruksi 585,Jawa,Semarang,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2024-11-16,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0884,2025-12-17,PT  Mitra Konstruksi 885,Jawa,Semarang   ,  Boom Lift,Google Ads,Andi Pratama   ,Closed Won,2025-12-23,2025-12-27,2026-01-05,29400000.0,,,4,1,1,1,1
+LD-0820,2025-09-09, PT Mitra Konstruksi 821 ,Jawa, Surabaya ,Telehandler,Referral,Budi  Santoso,Closed Lost,2025-09-15,2025-09-17,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0872,2025-12-18,  PT Mitra Konstruksi 873,Jawa,  Gresik,  Boom Lift,Website,  Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0102,2022-12-06,PT Mitra Konstruksi 103,bali,Denpasar,SCISSOR LIFT,whatsapp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0937,2026-03-08,PT Mitra Konstruksi 938,Jawa,Surabaya,Scissor Lift,Website,Fajar Nugroho,Closed Lost,2026-03-11,14.03.2026,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0162,2023-03-11,PT Mitra Konstruksi 163,Bali,Badung,Boom Lift,Email,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0064,2022-11-05,PT Mitra Konstruksi 065,Jawa,Gresikk,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0196,2023-05-26,PT Mitra Konstruksi 197,jawa,Sidoarjo,Scissor Lift,website,Rina Wulandari,CLOSED LOST,2023-05-30,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0264,2023-08-03,PT Mitra Konstruksi 265,Jawa,Bandung,ScissorLift,Refferal,Fajar Nugroho,Closed Lost,2023-08-04,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0985,2026-05-07, PT Mitra Konstruksi 986 ,JAWA, Bandung ,  CRANE,whatsapp,  Andi Pratama,Closed Lost,2026-05-12,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0135,2023-02-11,PT Mitra Konstruksi 136,Jawa,Sidoarjo,Crane,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0774,2025-07-05,PT Mitra Konstruksi 775,Bali,Denpasar,boom lift,Google Adwords,Sari R.,Closed Lost,2025-07-11,2025-07-17,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0830,2025-10-19,PT Mitra Konstruksi 831,Jawa,Semarang,Carmix,G-Ads,Dewi Lestari,Closed Lost,2025-10-20,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0548,2024-09-14,PT Mitra Konstruksi 549,Jawa,Sidoarjo,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2024-09-18,2024-09-26,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0893,2026-01-02,PT Mitra Konstruksi 894,Sumatra,Batam,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2026-01-06,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0527,2024-08-17,PT Mitra Konstruksi 528,Jawa,Surabaya,Skylift,Google Ads,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0575,2024-10-26,PT Mitra Konstruksi 576,Bali,Badung,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2024-10-28,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0768,2025-06-18,PT Mitra Konstruksi 769,Jawa,Bandung,ScissorLift,Refferal,Rina W.,CLOSED LOST,24-Jun-2025,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0172,2023-04-07,PT Mitra Konstruksi 173,Jawa,Surabaya,Skylift,WhatsApp,Eko Kurniawan,Closed Lost,2023-04-13,22-Apr-2023,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0701,2025-03-16,PT Mitra Konstruksi 702,Jawa,Gresik,ScissorLift,Web,Andi P,Closed Lost,2025-03-19,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0847,2025-11-21,PT Mitra Konstruksi 848,Bali,Badung,Crane,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0561,2024-10-19,PT Mitra Konstruksi 562,Jawa,Gresik,Scissor Lift,Email,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0079,04/11/2022,PT Mitra Konstruksi 080,jawa,Surabaya,Crane,Google Ads,Dewi Lestari,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0686,2025-03-17,PT Mitra Konstruksi 687,Jawa,Jakarta,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0679,2025-02-14,PT Mitra Konstruksi 680,Jawa,Surabaya,Crane,referal,budi santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1023,2026-07-11,PT Mitra Konstruksi 1024,Jawa,Gresik,Skylift,Referral,Andi Pratama,Closed Won,2026-07-15,2026-07-20,2026-08-02,,,,4,1,1,1,1
+LD-0834,2025-10-03,PT  Mitra Konstruksi 835,Jawa,Jakarta   ,Boom  Lift,Google Ads,Rina  Wulandari,Closed Lost,2025-10-07,2025-10-11,,,Negotiation,Price too high,5,1,1,1,0
+LD-0110,2023-01-17,PT Mitra Konstruksi 111,Jawa,Bandung,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,2023-01-18,2023-01-24,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0509,2024-07-08,PT Mitra Konstruksi 510,Bali,Denpasar,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,2024-07-13,2024-07-18,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0030,2022-09-22,PT Mitra Konstruksi 031,Bali,Badung,Boom Lift,Google Ads,Eko Kurniawan,Closed Lost,2022-09-25,2022-09-28,,,Negotiation,Price too high,5,1,1,1,0
+LD-0457,2024-05-30,PT Mitra Konstruksi 458,Jawa,Jakarta,Crane,Whats App,Dewi Lestari,Closed Lost,2024-06-04,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-1006,2026-06-27,PT Mitra Konstruksi 1007,Jawa,,carmix,,Fajar Nugroho,CLOSED WON,2026-07-03,2026-07-11,2026-07-13,26400000.0,,,4,1,1,1,1
+LD-0191,2023-05-19,PT Mitra Konstruksi 192,Jawa,Sidoarjo,ScissorLift,WA,Eko Kurniawan,Closed Won,20-May-2023,2023-05-22,2023-06-01,11200000.0,,,4,1,1,1,1
+LD-0743,2025-05-01,PT Mitra Konstruksi 744,sumatra,Palembang,crane,Website,Budi Santoso,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0624,2024-12-29,PT Mitra Konstruksi 625,Jawa,Jakarta,Scissor Lift,web site,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-1017,2026-07-24,PT Mitra Konstruksi 1018,BALI,Gianyar,boom lift,Referral,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0382,2024-02-28,PT Mitra Konstruksi 383,Jawa,Sidoarjo,Crane,Google Ads,Andi Pratama,Closed Lost,2024-03-04,2024-03-10,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0593,2024-11-25,PT Mitra Konstruksi 594,Jawa,Jakarta,Scissor Lift,Email,Vino Jayrasta,Closed Lost,2024-11-26,2024-12-02,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0300,2023-10-22,PT Mitra Konstruksi 301,Jawa,Jakarta,Boom Lift,WhatsApp,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0177,2023-04-07,PT Mitra Konstruksi 178,,,Carmix,,,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0324,2023-11-03,PT Mitra Konstruksi 325,Jawa,Gresik,Boom Lift,Email,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0859,2025-11-16,PT Mitra Konstruksi 860,Jawa,Bandung,BOOM LIFT,website,Budi Santoso,closed lost,2025-11-17,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-1007,2026-06-30,PT Mitra Konstruksi 1008,Jawa,Surabaya,Skylift,WhatsApp,Dewi Lestari,Closed Lost,2026-07-04,06/07/2026,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0138,2023-02-18,  PT Mitra Konstruksi 139,Sumatra,  Batam,  Carmix,WhatsApp,Sari Rahmawati   ,Lead In,,,,,,,1,1,0,0,0
+LD-0340,2023-12-25,PT Mitra Konstruksi 341,Sumatra,Medan,Boom Lift,Website,Andi Pratama,Closed Lost,2023-12-28,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0202,2023-05-31,PT Mitra Konstruksi 203,Bali,Denpasar,Carmix,website,Vino Jayrasta,Closed Lost,2023-06-04,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0943,2026-04-06,PT Mitra Konstruksi 944,Jawa,Bandung,Telehandler,Referral,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0573,2024-10-18,  PT Mitra Konstruksi 574,Jawa, Bandung ,Telehandler,WhatsApp,  Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0130,02/02/2023,PT Mitra Konstruksi 131,Sumatra,Medan,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,03.02.2023,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0117,2023-01-22,PT Mitra Konstruksi 118,Jawa,Sidoarjo,Scissor Lift,Google Ads,Sari Rahmawati,Closed Lost,25.01.2023,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-1010,2026-07-15,PT Mitra Konstruksi 1011,Bali,Denpasar,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2026-07-16,2026-07-23,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0864,2025-12-28,PT Mitra Konstruksi 865,sumatra,Batam,TELEHANDLER,GOOGLE ADS,VINO JAYRASTA,Closed Lost,2026-01-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0925,20/03/2026,PT Mitra Konstruksi 926,Jawa,Bandung,Scissor  Lift,whatsapp,vino jayrasta,Closed Lost,2026-03-25,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0688,2025-03-21,PT Mitra Konstruksi 689,Jawa,Gresik,Carmix,Email,Fajar Nugroho,Closed Lost,2025-03-24,2025-04-01,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0997,2026-06-14,PT Mitra Konstruksi 998,JAWA,Sidoarjo,telehandler,referral,Budi Santoso,Closed Won,2026-06-20,2026-06-22,2026-07-01,8987727664.0,,,4,1,1,1,1
+LD-0103,2023-01-10,PT Mitra Konstruksi 104,Jawa,Gresik,Telehandler,Website,Rina Wulandari,Closed Lost,2023-01-16,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0293,28/10/2023,PT Mitra Konstruksi 294,Jawa,Surabaya,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2023-10-30,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0024,2022-09-24,PT Mitra Konstruksi 025,Sumatra,Medan,Boom Lift,Email,Budi Santoso,Closed Lost,2022-09-30,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0529,2024-08-30,PT Mitra Konstruksi 530,Jawa,Surabaya,Scissor Lift,Referral,Andi Pratama,Closed Won,2024-08-31,2024-09-02,2024-09-14,9000000.0,,,4,1,1,1,1
+LD-0924,2026-03-13,PT Mitra Konstruksi 925,Sumatra,Medan,Boom Lift,Google Ads,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0232,2023-07-28,PT Mitra Konstruksi 233,Bali,Gianyar,Skylift,WhatsApp,Andi Pratama,Closed Won,2023-07-30,2023-08-06,2023-08-14,17600000.0,,,4,1,1,1,1
+LD-0359,2024-01-23,PT Mitra Konstruksi 360,Jawa,Bandung,Scissor Lift,Email,Fajar Nugroho,Closed Won,2024-01-28,2024-01-31,2024-02-11,10600000.0,,,4,1,1,1,1
+LD-0682,2025-02-11,PT Mitra Konstruksi 683,Jawa,Sidoarjo,Boom Lift,Google Ads,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0217,2023-06-15,PT Mitra Konstruksi 218,Sumatra,Palembang,Sky Lift,G-Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0620,2024-12-25,PT Mitra Konstruksi 621,Jawa,Surabaya,Crane,Google Ads,Dewi Lestari,Closed Won,2024-12-30,2025-01-06,2025-01-12,71400000.0,,,4,1,1,1,1
+LD-0439,2024-04-24,PT Mitra Konstruksi 440,Jawa,Gresik,Crane,Website,Dewi Lestari,Closed Lost,2024-04-25,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0301,21-Oct-2023,PT Mitra Konstruksi 302,Jawa,Bandung,Skylift,WhatsApp,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0432,2024-04-04,PT Mitra Konstruksi 433,Jawa,Semarrang,Crane,WhatsApp,Andi Pratama,Closed Won,2024-04-07,2024-04-11,2024-04-15,69600000.0,,,4,1,1,1,1
+LD-0940,2026-03-09,PT Mitra Konstruksi 941,BALI,Badung,scissor lift,whatsapp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0270,2023-09-11,PT Mitra Konstruksi 271,Jawa,Sidoarjo,boom lift,WA,RINA WULANDARI,Closed Lost,2023-09-13,2023-09-19,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0320,2023-11-17,PT Mitra Konstruksi 321,Jawa,Sidoarjo,Scissor Lift,Website,Andi Pratama,Closed Won,2023-11-20,2023-11-22,2023-12-03,15100000.0,,,4,1,1,1,1
+LD-0644,2025-01-09,PT Mitra Konstruksi 645,Jawa,Sidoarjo,SKYLIFT,Web,Dewi Lestari,Closed Lost,2025-01-15,2025-01-17,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0242,2023-07-22,  PT Mitra Konstruksi 243,Bali,Gianyar,Crane,WhatsApp,Vino  Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0708,03-Apr-2025,PT Mitra Konstruksi 709,Bali,Badung,Skylift,Google Ads,Vino Jayrasta,Closed Lost,07.04.2025,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0658,2025-01-19,PT Mitra Konstruksi 659,Jawa,Gresik,Boom Lift,WhatsApp,Budi Santoso,Closed Lost,2025-01-21,29/01/2025,,,Negotiation,Price too high,5,1,1,1,0
+LD-0901,20-Jan-2026,PT Mitra Konstruksi 902,Bali,Badung,Crane,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0826,2025-10-13,PT Mitra Konstruksi 827,Jawa,Gresik,Scissor Lift,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0663,2025-02-23,PT Mitra Konstruksi 664,Jawa,Sidoarjo,Telehandler,Google Ads,Vino Jayrasta,Closed Lost,2025-02-24,2025-02-27,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0498,2024-07-18,PT Mitra Konstruksi 499,Sumatra,Batam,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2024-07-23,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0507,2024-07-19,PT Mitra Konstruksi 508,Jawa,Jakarta,Crane,WhatsApp,Rina Wulandari,Closed Lost,2024-07-24,2024-08-02,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0275,2023-09-22,PT Mitra Konstruksi 276,Jawa,Sidoarjo,SCISSOR LIFT,website,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0488,2024-06-16,PT Mitra Konstruksi 489,Sumatra,Batam,Skylift,WhatsApp,Dewi Lestari,Closed Lost,2024-06-21,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-1023,2026-07-11,PT Mitra Konstruksi 1024,Jawa,Gresik,Skylift,Referral,Andi Pratama,Closed Won,2026-07-15,2026-07-20,2026-08-02,,,,4,1,1,1,1
+LD-0538,2024-09-24,PT Mitra Konstruksi 539,Jawa,Surabaya,BOOM LIFT ,Refferal,VINO JAYRASTA,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0784,2025-07-13,PT Mitra Konstruksi 785,BALI,Gianyar,boom lift,WHATSAPP,Budi Santoso,CLOSED WON,2025-07-14,2025-07-18,2025-07-28,16600000.0,,,4,1,1,1,1
+LD-0837,23-Oct-2025,PT Mitra Konstruksi 838,Jawa,Jakarta,Skylift,WhatsApp,Budi Santoso,Closed Lost,26/10/2025,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0463,2024-05-01,PT  Mitra Konstruksi 464,Sumatra,Palembang   ,Skylift   ,WhatsApp, Fajar Nugroho ,Closed Lost,2024-05-06,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0957,2026-04-11,PT Mitra Konstruksi 958,Bali,Badung,BOOM LIFT,Whatsapp,Rina Wulandari,Closed Won,2026-04-14,2026-04-20,2026-05-03,18700000.0,,,4,1,1,1,1
+LD-0366,2024-01-13,PT Mitra Konstruksi 367,Bali,Denpasar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0268,2023-09-20,PT Mitra Konstruksi 269,Jawa,Sidoarjo,Skylift,Google Ads,Andi Pratama,Closed Lost,2023-09-26,2023-09-28,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0469,2024-05-16,PT Mitra Konstruksi 470   ,Jawa, Gresik ,Crane   ,Website,Vino  Jayrasta,Closed Lost,2024-05-20,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0342,2023-12-20,PT Mitra Konstruksi 343,Jawa,Sidoarjo,Telehandler,Referral,Vino Jayrasta,CLOSED LOST,22-Dec-2023,2023-12-29,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0435,2024-04-13,PT Mitra Konstruksi 436,Bali,Gianyar,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0861,16-Dec-2025,PT Mitra Konstruksi 862,Bali,Badung,Telehandler,WhatsApp,Fajar Nugroho,Closed Lost,2025-12-22,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0302,2023-10-14,PT Mitra Konstruksi 303,jawa,Surabaya,Crane,Whatsapp,SARI RAHMAWATI,CLOSED WON,2023-10-19,2023-10-24,2023-11-04,39300000.0,,,4,1,1,1,1
+LD-0104,25/01/2023,PT Mitra Konstruksi 105,Jawa,Semarang,Skylift,google ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0594,2024-11-06,PT Mitra Konstruksi 595,JAWA,Gresik,Scissor Lift,whatsapp,Eko Kurniawan,CLOSED WON,2024-11-12,2024-11-14,2024-11-25,11900000.0,,,4,1,1,1,1
+LD-0178,2023-04-07,PT Mitra Konstruksi 179,Bali,Denpasar,Telehandler,WhatsApp,Andi Pratama,Closed Lost,2023-04-08,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0767,2025-06-22,PT Mitra Konstruksi 768,Jawa,Sidoarjo,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0596,29.11.2024,PT Mitra Konstruksi 597,Bali,Badung,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0554,2024-09-12,PT Mitra Konstruksi 555,BALI,Denpasar,scissor lift,website,Fajar Nugroho,lead in,,,,,,,1,1,0,0,0
+LD-0397,2024-02-20,PT Mitra Konstruksi 398   ,Jawa,Jakarta,  Carmix,Website,  Eko Kurniawan,Closed Won,2024-02-23,2024-03-03,2024-03-12,32000000.0,,,4,1,1,1,1
+LD-0982,2026-05-20, PT Mitra Konstruksi 983 ,Jawa,Semarang   ,Scissor Lift   ,WhatsApp,Vino Jayrasta   ,Closed Won,2026-05-24,2026-05-31,2026-06-03,8900000.0,,,4,1,1,1,1
+LD-1008,2026-06-11,PT Mitra Konstruksi 1009,Bali,Gianyar,Scissor  Lift,Refferal,Fajar Nugroho,Closed Lost,2026-06-12,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0659,15-Feb-2025,PT Mitra Konstruksi 660   ,Sumatra, Batam , Skylift ,WhatsApp,  Andi Pratama,Closed Won,2025-02-20,2025-02-26,2025-03-11,,,,4,1,1,1,1
+LD-0299,2023-10-04,PT Mitra Konstruksi 300,Bali,Denpasar,BOOM LIFT,WHATSAPP,Sari Rahmawati,Closed Won,2023-10-07,2023-10-12,2023-10-25,17700000.0,,,4,1,1,1,1
+LD-0919,2026-02-11,PT Mitra Konstruksi 920,jawa,Bandung,SCISSOR LIFT,Referral,Budi Santoso,Closed Won,2026-02-16,2026-02-19,26/02/2026,6900000.0,,,4,1,1,1,1
+LD-0720,2025-04-25,PT Mitra Konstruksi 721,Bali,Gianyar,Scissor Lift,Referral,Rina Wulandari,Closed Won,2025-05-01,2025-05-03,2025-05-06,7200000.0,,,4,1,1,1,1
+LD-0735,2025-05-05,PT Mitra Konstruksi 736,jawa,Jakarta,Boom Lift,Whatsapp,Andi Pratama,closed lost,2025-05-11,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0654,2025-01-12,PT Mitra Konstruksi 655,Jawa,Jakarta,Crane,WhatsApp,Andi Pratama,Closed Lost,2025-01-14,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0038,2022-09-16,PT  Mitra Konstruksi 039,Jawa, Bandung ,Skylift   ,Google Ads, Andi Pratama ,Closed Won,2022-09-21,2022-09-27,2022-10-03,11700000.0,,,4,1,1,1,1
+LD-0886,2026-01-13,PT Mitra Konstruksi 887,Jawa,Jakarta,Telehandler,referal,Rina Wulandari,Closed Lost,2026-01-16,2026-01-20,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0276,2023-09-22,PT Mitra Konstruksi 277,Jawa,Gresik,Telehandler,Website,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0326,2023-11-25,PT Mitra Konstruksi 327,Jawa,Jakarta,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Won,2023-12-01,2023-12-06,2023-12-10,9800000.0,,,4,1,1,1,1
+LD-0746,2025-06-10,PT Mitra Konstruksi 747,Jawa,Surabaya,Telehandler,WhatsApp,Sari Rahmawati,Closed Lost,2025-06-12,2025-06-15,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0037,2022-09-09,PT Mitra Konstruksi 038,Bali,Denpasar,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,2022-09-10,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0973,2026-05-16,PT Mitra Konstruksi 974,Sumatra,Palembang,Scissor Lift,Google Ads,Vino Jayrasta,Closed Won,2026-05-22,2026-05-29,2026-06-06,14500000.0,,,4,1,1,1,1
+LD-0099,2022-12-15,PT Mitra Konstruksi 100,Jawa,Gresikk,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,21/12/2022,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0542,2024-09-17,PT Mitra Konstruksi 543,JAWA,Semarang,Skylift,google ads,Dewi Lestari,Closed Won,2024-09-19,2024-09-22,2024-09-24,13200000.0,,,4,1,1,1,1
+LD-0939,2026-03-06,PT Mitra Konstruksi 940,Jawa,Surabaya,Crane,WhatsApp,Andi Pratama,Closed Lost,2026-03-11,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0897,2026-01-30,PT Mitra Konstruksi 898,Jawa,Jakarta,Skylift,Google Ads,Eko Kurniawan,Closed Lost,2026-02-02,2026-02-04,,,Negotiation,Price too high,5,1,1,1,0
+LD-0036,2022-09-30,PT Mitra Konstruksi 037,,,SCISSOR LIFT,,,Lead In,,,,,,,1,1,0,0,0
+LD-0434,04.04.2024,PT Mitra Konstruksi 435,Jawa,Sidoarjo,Scissor Lift,WhatsApp,Andi Pratama,Closed Won,2024-04-07,2024-04-16,2024-04-27,6000000.0,,,4,1,1,1,1
+LD-0758,2025-06-10,PT Mitra Konstruksi 759,bali,Gianyar,carmix,google ads,Andi Pratama,Closed Won,2025-06-11,2025-06-20,2025-06-30,27900000.0,,,4,1,1,1,1
+LD-0557,2024-09-26,PT Mitra Konstruksi 558,Jawa,Jakarta,BOOM LIFT ,referal,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0656,06-Jan-2025,PT Mitra Konstruksi 657,Bali,Badung,Telehandler,Email,Dewi Lestari,Closed Lost,2025-01-08,2025-01-14,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0844,2025-11-01,PT Mitra Konstruksi 845,Jawa,Semarang,Telehandler,Google Ads,Vino Jayrasta,Closed Lost,2025-11-06,14-Nov-2025,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-1026,2026-07-12,PT Mitra Konstruksi 1027,Jawa,Sidoarjo,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,2026-07-18,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0671,2025-02-09,PT Mitra Konstruksi 672,Sumatra,Medan,Boom Lift,WhatsApp,Budi Santoso,Closed Lost,2025-02-15,2025-02-19,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0363,2024-01-22,PT Mitra Konstruksi 364,Jawa,Surabaya,Scissor Lift,Website,Sari Rahmawati,Closed Lost,2024-01-26,2024-01-29,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0664,2025-02-19,PT Mitra Konstruksi 665,SUMATRA,Batam,Scissor Lift,Whatsapp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0169,2023-04-16,PT Mitra Konstruksi 170,Jawa,Semarang,Crane,Referral,Vino Jayrasta,Closed Lost,2023-04-21,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0303,2023-10-01,PT Mitra Konstruksi 304,Jawa,Jakarta,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0868,2025-12-19,PT Mitra Konstruksi 869,Jawa,Semarang,Boom Lift,WhatsApp,Fajar Nugroho,Closed Won,25/12/2025,2025-12-28,2026-01-10,15300000.0,,,4,1,1,1,1
+LD-0105,2023-01-05,PT Mitra Konstruksi 106,JAWA,Sidoarjo,Scissor Lift,Email,Budi Santoso,Closed Lost,2023-01-10,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0978,2026-05-06,PT Mitra Konstruksi 979,Jawa,Semarrang,Crane,Refferal,SARI RAHMAWATI,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0211,02.06.2023,PT Mitra Konstruksi 212,Jawa,Bandung,Scissor Lift,Google Ads,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0446,2024-04-08,PT Mitra Konstruksi 447,Jawa,Bandung,Crane,Email,Andi Pratama,Closed Won,2024-04-13,2024-04-16,29/04/2024,30800000.0,,,4,1,1,1,1
+LD-0926,2026-03-04,PT Mitra Konstruksi 927,Jawa,Gresik,Crane,web site,Vino J.,Closed Lost,2026-03-10,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0821,2025-09-10,PT Mitra Konstruksi 822,Sumatra,Batam,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,2025-09-14,20.09.2025,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0143,2023-02-12,PT Mitra Konstruksi 144,Sumatra,Batam,SCISSOR LIFT,Google Ads,Dewi Lestari,CLOSED LOST,2023-02-14,2023-02-17,,,Negotiation,Price too high,5,1,1,1,0
+LD-0888,2026-01-15,PT Mitra Konstruksi 889,Jawa,Surabaya,Skylift,Website,Rina Wulandari,Closed Won,2026-01-20,2026-01-22,2026-01-29,16200000.0,,,4,1,1,1,1
+LD-0417,2024-03-19,PT Mitra Konstruksi 418,,,Boom Lift,,,Closed Lost,2024-03-20,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0762,2025-06-18,PT Mitra Konstruksi 763,Jawa,Bandung,Scissor Lift,WA,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0967,2026-05-26,PT Mitra Konstruksi 968,Sumatra,Palembeng,telehandler,GOOGLE ADS,Dewi Lestari,CLOSED WON,2026-05-27,2026-05-29,2026-06-04,17100000.0,,,4,1,1,1,1
+LD-0597,28/11/2024, PT Mitra Konstruksi 598 ,Sumatra,Palembang,ScissorLift,google ads,andi pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0112,2023-01-29,PT Mitra Konstruksi 113,Bali,Denpasar,Scissor Lift,WhatsApp,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0555,2024-09-04,PT Mitra Konstruksi 556,sumatra,Batam,Scissor  Lift,google ads,vino jayrasta,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0131,2023-02-28,PT Mitra Konstruksi 132,Jawa,Bandung,Crane,WhatsApp,Fajar Nugroho,Closed Won,2023-03-02,2023-03-07,2023-03-13,41011.0,,,4,1,1,1,1
+LD-0450,2024-05-30,PT Mitra Konstruksi 451,Sumatra,Palembang,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2024-06-05,2024-06-13,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0757,2025-06-27,  PT Mitra Konstruksi 758,Jawa,Surabaya,Crane,Website, Dewi Lestari ,Lead In,,,,,,,1,1,0,0,0
+LD-0701,2025-03-16,PT Mitra Konstruksi 702,Jawa,Gresik,ScissorLift,Web,Andi P,Closed Lost,2025-03-19,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0552,2024-09-09,PT Mitra Konstruksi 553,Sumatra,Medan,Scissor Lift,Referral,Dewi Lestari,Closed Won,2024-09-12,2024-09-18,2024-10-01,6700000.0,,,4,1,1,1,1
+LD-0829,2025-10-16,PT Mitra Konstruksi 830,Sumatra,Palembang,Scissor Lift,WhatsApp,Rina Wulandari,Closed Won,2025-10-17,2025-10-21,2025-10-10,19100000.0,,,4,1,1,1,1
+LD-0715,2025-04-01,PT Mitra Konstruksi 716,Sumatra,Medan,Scissor Lift,Referral,Sari Rahmawati,Closed Lost,2025-04-06,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0739,2025-05-05,PT  Mitra Konstruksi 740,Jawa,Gresik,Scissor Lift   ,WhatsApp,Dewi Lestari   ,Closed Lost,2025-05-06,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0208,2023-05-27,PT Mitra Konstruksi 209,sumatra,Batam,SCISSOR LIFT,email,Dewi Lestari,CLOSED LOST,2023-06-01,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0471,2024-06-16,PT Mitra Konstruksi 472,,,Boom Lift,,,Lead In,,,,,,,1,1,0,0,0
+LD-0344,2023-12-03,PT  Mitra Konstruksi 345,Jawa, Jakarta ,Scissor  Lift,Website,Vino  Jayrasta,Closed Won,2023-12-06,2023-12-13,23/12/2023,,,,4,1,1,1,1
+LD-0236,2023-07-11,PT Mitra Konstruksi 237,Jawa,Semarang,Skylift,whatsapp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0013,13.08.2022,PT Mitra Konstruksi 014,Jawa,Gresik,Skylift,Email,Dewi Lestari,Closed Lost,2022-08-18,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0111,2023-01-25,PT Mitra Konstruksi 112,Jawa,Gresikk,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,2023-01-29,2023-02-03,,,Negotiation,Price too high,5,1,1,1,0
+LD-0327,2023-11-15,PT Mitra Konstruksi 328,Jawa,Jakarta,Boom Lift,Website,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0490,2024-06-12,PT Mitra Konstruksi 491,Jawa,,Carmix,,Andi Pratama,Closed Won,2024-06-16,2024-06-20,2024-06-28,32700000.0,,,4,1,1,1,1
+LD-0895,2026-01-27,PT Mitra Konstruksi 896,Jawa,Bandung,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2026-02-02,2026-02-08,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0122,2023-01-04,PT Mitra Konstruksi 123,Jawa,Jakarta,Crane,whatsapp,Fajar Nugroho,Closed Won,2023-01-07,2023-01-10,2023-01-21,74900000.0,,,4,1,1,1,1
+LD-0553,2024-09-23,PT Mitra Konstruksi 554,Bali,Badung,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Lost,28/09/2024,2024-09-30,,,Negotiation,Price too high,5,1,1,1,0
+LD-0672,2025-02-23,PT Mitra Konstruksi 673,Jawa,Surabaya,boom lift,WHATSAPP,Budi Santoso,closed lost,2025-02-27,2025-03-05,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0862,2025-12-04,PT Mitra Konstruksi 863,Jawa,Surabaya,Carmix,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0121,29/01/2023,PT Mitra Konstruksi 122,JAWA,Jakarta,SCISSOR LIFT,email,Eko Kurniawan,Closed Lost,2023-02-03,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0495,2024-06-20,PT Mitra Konstruksi 496,Jawa,Jakarta,Boom Lift,WHATSAPP,Eko Kurniawan,closed won,2024-06-26,2024-07-02,2024-07-09,9400000.0,,,4,1,1,1,1
+LD-0519,22.08.2024,PT Mitra Konstruksi 520,Bali,Badung,Telehandler,Email,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0006,2022-08-07,PT Mitra Konstruksi 007,Bali,Gianyar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0582,2024-11-09,PT Mitra Konstruksi 583,Jawa,Semarang,Skylift,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0956,2026-04-27,PT Mitra Konstruksi 957,Bali,Denpasar,BOOM LIFT ,whatsapp,Eko Kurniawan,Lead In,,,,,,,1,1,0,0,0
+LD-0399,2024-02-24,PT Mitra Konstruksi 400,Jawa,Sidoarjo,Crane,Website,Budi Santoso,Closed Lost,2024-03-01,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0326,2023-11-25,PT Mitra Konstruksi 327,Jawa,Jakarta,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Won,2023-12-01,2023-12-06,2023-12-10,9800000.0,,,4,1,1,1,1
+LD-0909,2026-02-03,PT Mitra Konstruksi 910,Jawa,Bandung,Crane,Whats App,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0801,2025-08-13,PT Mitra Konstruksi 802,Jawa,Jakarta,Crane,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0005,2022-08-09,PT Mitra Konstruksi 006,Jawa,Jakarta,Telehandler,Google Ads,Rina Wulandari,Closed Lost,2022-08-11,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0152,2023-03-04,PT Mitra Konstruksi 153,Sumatra,Palembang,Crane,Website,Eko Kurniawan,Closed Lost,2023-03-09,2023-03-15,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0648,2025-01-17,PT Mitra Konstruksi 649,Sumatra,Palembang,Crane,WhatsApp,Vino Jayrasta,Closed Lost,2025-01-18,2025-01-21,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0761,22/06/2025,PT Mitra Konstruksi 762,Bali,Gianyar,Boom Lift,Website,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0570,2024-10-10,PT Mitra Konstruksi 571,Bali,Denpasar,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,13/10/2024,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0543,2024-09-23,PT Mitra Konstruksi 544,Jawa,Jakarta,Carmix,Website,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0600,2024-11-13,PT Mitra Konstruksi 601,Jawa,Surabaya,Boom Lift,Email,Eko Kurniawan,Closed Lost,2024-11-15,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0012,2022-08-10,PT Mitra Konstruksi 013,Jawa,,Boom Lift,,Andi Pratama,Closed Won,2022-08-16,24.08.2022,05-Sep-2022,17600000.0,,,4,1,1,1,1
+LD-0965,2026-04-17,PT Mitra Konstruksi 966,Sumatra,Batam,Telehandler,Website,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0728,2025-05-16,PT Mitra Konstruksi 729,Sumatra,Batam,SCISSOR LIFT,Website,Budi Santoso,Closed Lost,2025-05-22,2025-05-24,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0367,2024-01-05,PT Mitra Konstruksi 368,BALI,Gianyar,BOOM LIFT,Google Ads,Rina Wulandari,Closed Lost,2024-01-06,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0378,2024-02-15,PT Mitra Konstruksi 379,Jawa,Sidoarjo,Skylift,WhatsApp,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0023,2022-09-27,PT Mitra Konstruksi 024,Jawa,Surabaya,Scissor Lift,Website,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0736,2025-05-21,PT Mitra Konstruksi 737,Jawa,Bandung,Boom Lift,Google Adwords,Vino Jayrasta,Closed Won,2025-05-25,2025-06-01,11/06/2025,30800000.0,,,4,1,1,1,1
+LD-0894,2026-01-12,PT Mitra Konstruksi 895,Jawa,Bandung,Skylift,Google Ads,Sari Rahmawati,Closed Lost,2026-01-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0205,21/05/2023,PT Mitra Konstruksi 206,Bali,Gianyar,Telehandler,Google Ads,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0124,2023-02-24,PT Mitra Konstruksi 125,Sumatra,Batam,boom lift,Whats App,budi santoso,Closed Lost,2023-03-02,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0631,2025-01-26,PT Mitra Konstruksi 632,Bali,Badung,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0141,2023-02-02,PT Mitra Konstruksi 142,Bali,Gianyar,Carmix,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0783,11-Jul-2025,PT Mitra Konstruksi 784,Jawa,Semarang,Scissor Lift,Referral,Dewi Lestari,Closed Lost,2025-07-17,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0259,2023-08-11,PT Mitra Konstruksi 260,Jawa,Gresik,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,15/08/2023,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0151,2023-03-24,PT Mitra Konstruksi 152,Jawa,Jakarta,Crane,Website,Budi Santoso,Closed Won,2023-03-27,2023-04-01,04/04/2023,24800000.0,,,4,1,1,1,1
+LD-0785,2025-07-22,PT Mitra Konstruksi 786,Jawa,Gresik,BOOM LIFT ,G-Ads,Sari R.,Lead In,,,,,,,1,1,0,0,0
+LD-0089,2022-12-13,PT Mitra Konstruksi 090,Jawa,Sidoarjo,Skylift,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0902,2026-01-18,PT Mitra Konstruksi 903,jawa,Surabaya,Boom Lift,Website,Vino Jayrasta,CLOSED WON,2026-01-24,2026-01-29,2026-01-31,19300000.0,,,4,1,1,1,1
+LD-0271,2023-09-05,PT Mitra Konstruksi 272,Sumatra,Medan,Carmix,WhatsApp,Sari Rahmawati,Closed Won,2023-09-09,15.09.2023,20/09/2023,23500000.0,,,4,1,1,1,1
+LD-0846,2025-11-18,PT  Mitra Konstruksi 847,Jawa, Gresik ,  Crane,WhatsApp, Fajar Nugroho ,Closed Won,2025-11-23,2025-12-01,2025-12-03,67900000.0,,,4,1,1,1,1
+LD-0616,2024-12-26,PT Mitra Konstruksi 617   ,Sumatra,  Medan,Skylift   ,Referral,  Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1005,2026-06-29,PT Mitra Konstruksi 1006,Jawa,SIDOARJO,Skylift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0043,2022-10-23,PT Mitra Konstruksi 044,Jawa,Bandung,Crane,WhatsApp,Fajar Nugroho,Closed Lost,2022-10-27,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0187,2023-05-09,PT Mitra Konstruksi 188,jawa,Gresik,boom lift,WEBSITE,Andi Pratama,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0827,2025-10-17,PT Mitra Konstruksi 828   ,Jawa,Bandung,  Boom Lift,Website,Eko  Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0028,2022-09-17,PT Mitra Konstruksi 029,jawa,Jakarta,telehandler,referal,SARI RAHMAWATI,closed lost,18.09.2022,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0662,2025-02-08,PT Mitra Konstruksi 663,Bali,Denpassar,Scissor Lift,WhatsApp,Sari Rahmawati,Closed Lost,2025-02-14,2025-02-19,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0706,2025-04-01,PT Mitra Konstruksi 707,Bali,Denpasar,Scissor Lift,whatsapp,Vino Jayrasta,Closed Lost,2025-04-03,2025-04-12,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0782,2025-07-02,PT Mitra Konstruksi 783,Jawa,Gresik,Scissor Lift,WhatsApp,Fajar Nugroho,Closed Lost,2025-07-05,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0068,2022-11-19,PT  Mitra Konstruksi 069,Jawa,Gresik,Boom Lift   ,Google Ads,  Vino Jayrasta,Closed Lost,2022-11-22,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-1024,2026-07-16,PT Mitra Konstruksi 1025,Jawa,Sidoarjo,telehandler,Google Adwords,budi santoso,Closed Lost,2026-07-21,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0174,26-Apr-2023,PT Mitra Konstruksi 175,Jawa,Jakarta,Boom Lift,Email,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1018,2026-07-03,PT Mitra Konstruksi 1019,Bali,Badung,Crane,Google Ads,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1014,2026-07-26,PT Mitra Konstruksi 1015,JAWA,Jakarta,carmix,GOOGLE ADS,Fajar Nugroho,Closed Lost,2026-07-28,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0770,2025-07-10,PT Mitra Konstruksi 771,Jawa,Bandung,Sky Lift,whatsapp,andi pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0445,2024-04-11,PT Mitra Konstruksi 446,Jawa,Sidoarjo,Skylift,WhatsApp,Eko Kurniawan,Closed Won,2024-04-14,2024-04-22,2024-04-30,22800000.0,,,4,1,1,1,1
+LD-0316,2023-11-10,  PT Mitra Konstruksi 317,Jawa,  Jakarta,  Boom Lift,Google Ads,Dewi  Lestari,Closed Lost,2023-11-12,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0887,2026-01-31,PT Mitra Konstruksi 888,Jawa,Gresik,Scissor Lift,WA,Fajar Nugroho,Closed Lost,2026-02-03,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0475,2024-06-21,PT Mitra Konstruksi 476,JAWA,Surabaya,carmix,Email,Andi Pratama,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0514,2024-07-10,PT Mitra Konstruksi 515,Bali,Gianyar,Scissor Lift,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0201,19/05/2023,PT Mitra Konstruksi 202,jawa,Gresik,Scissor Lift,Google Ads,Fajar Nugroho,closed lost,2023-05-21,2023-05-30,,,Negotiation,Price too high,5,1,1,1,0
+LD-0253,2023-08-13,PT Mitra Konstruksi 254,Bali,Badung,Scissor Lift,Website,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0348,2023-12-13,PT Mitra Konstruksi 349,Jawa,Surabaya,ScissorLift,Refferal,budi santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0118,2023-01-23,PT Mitra Konstruksi 119,Jawa,Sidoarjo,Telehandler,Website,Eko Kurniawan,Closed Lost,2023-01-29,2023-02-05,,,Negotiation,Price too high,5,1,1,1,0
+LD-0587,2024-11-01,PT Mitra Konstruksi 588,Jawa,Sidoarjo,Boom Lift,Refferal,Sari Rahmawati,Closed Won,2024-11-07,2024-11-09,2024-11-17,,,,4,1,1,1,1
+LD-0098,2022-12-28,PT Mitra Konstruksi 099,Sumatra,Batam,Boom Lift,Website,Dewi Lestari,Closed Lost,2022-12-31,04/01/2023,,,Negotiation,Price too high,5,1,1,1,0
+LD-0325,2023-11-24,PT Mitra Konstruksi 326,Bali,Gianyar,Scissor Lift,Google Adwords,Vino Jayrasta,Closed Lost,2023-11-29,2023-12-06,,,Negotiation,Price too high,5,1,1,1,0
+LD-0984,2026-05-22,PT Mitra Konstruksi 985,Bali,Gianyar,Scissor Lift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0292,2023-10-22,PT Mitra Konstruksi 293,Bali,Gianyar,Skylift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0539,05/09/2024,PT Mitra Konstruksi 540,Jawa,Surabaya,Boom Lift,Email,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0722,2025-04-28,PT Mitra Konstruksi 723,Bali,Denpasar,Scissor Lift,Referral,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0244,2023-07-31,PT Mitra Konstruksi 245,Jawa,Sidoarjo,ScissorLift,Whats App,Andi P,Closed Lost,05/08/2023,2023-08-10,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0422,2024-03-16,PT Mitra Konstruksi 423,Bali,Denpasar,Scissor Lift,Website,Eko Kurniawan,Closed Lost,2024-03-20,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0009,2022-08-29,PT Mitra Konstruksi 010,Sumatra,Medan,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,2022-09-01,2022-09-10,,,Negotiation,Price too high,5,1,1,1,0
+LD-0534,2024-08-10,PT Mitra Konstruksi 535,Jawa,Semarang,Boom Lift,Google Ads,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0730,2025-05-03,PT Mitra Konstruksi 731,Sumatra,Medan,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2025-05-04,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0802,2025-08-25,PT Mitra Konstruksi 803,Jawa,Gresik,Crane,Referral,Budi Santoso,Closed Lost,2025-08-31,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0026,2022-09-08,PT Mitra Konstruksi 027,Sumatra,Medan,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,2022-09-14,21-Sep-2022,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0516,2024-07-19,PT Mitra Konstruksi 517,Sumatra,Batam,Boom Lift,Website,Sari Rahmawati,Closed Lost,22.07.2024,2024-07-27,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-1020,2026-07-02,PT Mitra Konstruksi 1021,Jawa,Jakarta,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,03/07/2026,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0222,2023-06-30,PT Mitra Konstruksi 223,Jawa,Sidoarjo,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0580,2024-10-11,  PT Mitra Konstruksi 581,Bali,  Denpasar, Boom Lift ,whatsapp,  Rina Wulandari,Closed Lost,2024-10-14,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0912,2026-02-16,PT Mitra Konstruksi 913,JAWA,Sidoarjo,Carmix,WEBSITE,Eko Kurniawan,CLOSED LOST,2026-02-22,25/02/2026,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0039,2022-09-17,PT Mitra Konstruksi 040,Jawa,Semarang,Crane,Google Ads,Vino Jayrasta,Closed Lost,21-Sep-2022,2022-09-28,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0087,2022-12-24,PT Mitra Konstruksi 088,Jawa,Bandung,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,2022-12-27,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0095,2022-12-20,PT Mitra Konstruksi 096,JAWA,Jakarta,scissor lift,WHATSAPP,Eko Kurniawan,closed lost,2022-12-21,2022-12-28,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0426,2024-03-13,PT Mitra Konstruksi 427,Jawa,Bandung,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,2024-03-19,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0060,2022-10-15,PT Mitra Konstruksi 061,Jawa,Bandung,CRANE,WHATSAPP,Fajar Nugroho,Closed Won,2022-10-16,2022-10-20,2022-10-26,55800000.0,,,4,1,1,1,1
+LD-0282,2023-09-22, PT Mitra Konstruksi 283 ,Bali,  Gianyar, Telehandler ,Google Ads,Dewi  Lestari,Closed Lost,2023-09-26,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0451,2024-05-09,PT Mitra Konstruksi 452,Jawa,Sidoarjo,Scissor Lift,WhatsApp,Dewi Lestari,Closed Won,2024-05-11,2024-05-16,2024-05-27,18400000.0,,,4,1,1,1,1
+LD-0171,2023-04-03,PT Mitra Konstruksi 172,Jawa,Sidoarjo,Skylift,Website,Andi Pratama,Closed Lost,2023-04-04,2023-04-12,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0361,2024-01-12,PT Mitra Konstruksi 362,Sumatra,Batam,Scissor  Lift,Whats App,Andi P,Closed Lost,2024-01-17,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0165,2023-03-21, PT Mitra Konstruksi 166 ,Jawa,  Surabaya,Boom  Lift,Website, Fajar Nugroho ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0696,2025-03-02,PT Mitra Konstruksi 697,Sumatra,Batam,Skylift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0675,21-Feb-2025,PT Mitra Konstruksi 676,Sumatra,Medan,ScissorLift,Web,VINO JAYRASTA,Closed Lost,25.02.2025,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0368,03/01/2024,PT Mitra Konstruksi 369,Jawa,Bandung,Boom Lift,Website,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0863,2025-12-03,PT Mitra Konstruksi 864,Jawa,Gresik,Boom Lift,Website,Fajar Nugroho,Closed Lost,2025-12-09,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0613,2024-12-03, PT Mitra Konstruksi 614 ,Sumatra,Medan,  Scissor Lift,Website,Rina  Wulandari,Closed Lost,2024-12-04,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0930,17/03/2026,PT Mitra Konstruksi 931,Jawa,Surabaya,Boomlift,Whats App,Vino J.,Lead In,,,,,,,1,1,0,0,0
+LD-1022,2026-07-23,PT Mitra Konstruksi 1023,Sumatra,Palembang,Scissor Lift,Google Ads,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0230,2023-07-15,PT Mitra Konstruksi 231,Jawa,Jakarta,Scissor Lift,Referral,Fajar Nugroho,Closed Lost,2023-07-20,2023-07-28,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0373,31-Jan-2024,PT Mitra Konstruksi 374,Bali,Gianyar,Scissor Lift,Email,Fajar Nugroho,Closed Lost,2024-02-04,2024-02-13,,,Negotiation,Price too high,5,1,1,1,0
+LD-0692,2025-03-16,PT Mitra Konstruksi 693,Sumatra,Palembang,Crane,Email,Vino Jayrasta,Closed Lost,2025-03-17,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0252,2023-08-01,PT Mitra Konstruksi 253,Bali,Denpasar,Telehandler,Website,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0223,2023-06-16,PT Mitra Konstruksi 224,Jawa,Sidoarjo,Crane,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0703,2025-03-28,PT Mitra Konstruksi 704,bali,Gianyar,CARMIX,EMAIL,Rina Wulandari,Closed Lost,02-Apr-2025,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0371,2024-01-08,PT Mitra Konstruksi 372,Sumatra,Medan,Carmix,Google Ads,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0809,2025-09-03,PT Mitra Konstruksi 810,Jawa,Surabaya,BOOM LIFT,WHATSAPP,SARI RAHMAWATI,Closed Lost,2025-09-05,2025-09-11,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0228,2023-06-24,PT Mitra Konstruksi 229,Jawa,Sidoarjo,ScissorLift,G-Ads,Fajar Nugroho,Closed Lost,2023-06-26,2023-07-03,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0061,2022-10-23,PT Mitra Konstruksi 062,Sumatra,Medan,Scissor Lift,Website,Sari Rahmawati,Closed Lost,28-Oct-2022,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0308,11-Oct-2023,PT Mitra Konstruksi 309,Sumatra,Palembang,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2023-10-13,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0500,2024-07-22,PT Mitra Konstruksi 501,Sumatra,Medan,Carmix,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0406,2024-03-22,PT Mitra Konstruksi 407,Sumatra,Palembeng,Skylift,Google Ads,Budi Santoso,Closed Lost,2024-03-28,2024-04-01,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0505,2024-07-29,PT Mitra Konstruksi 506,Jawa,Gresik,Telehandler,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0155,2023-03-17,PT Mitra Konstruksi 156,JAWA,Surabaya,SCISSOR LIFT,email,Vino Jayrasta,CLOSED WON,2023-03-21,27/03/2023,2023-04-08,8800000.0,,,4,1,1,1,1
+LD-0766,2025-06-05,PT Mitra Konstruksi 767,Jawa,,Telehandler,,Dewi Lestari,Closed Lost,07.06.2025,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0726,2025-05-23,PT Mitra Konstruksi 727,Jawa,Gresik,SKYLIFT,Referral,Dewi Lestari,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0719,2025-04-08,PT Mitra Konstruksi 720,Jawa,Bandung,boom lift,WEBSITE,Andi Pratama,closed won,2025-04-09,2025-04-17,2025-04-30,14400000.0,,,4,1,1,1,1
+LD-0621,2024-12-19,PT Mitra Konstruksi 622,Jawa,Sidoarjo,BOOM LIFT ,G-Ads,Eko Kurniawan,Closed Lost,2024-12-25,2024-12-28,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0441,2024-04-12,PT Mitra Konstruksi 442,Bali,Denpasar,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2024-04-17,2024-04-25,,,Negotiation,Price too high,5,1,1,1,0
+LD-0168,2023-04-03,PT Mitra Konstruksi 169,Jawa,Sidoarjo,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2023-04-05,2023-04-13,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0386,2024-02-04,PT Mitra Konstruksi 387,Jawa,Gresik,Boom Lift,Referral,Rina Wulandari,Closed Lost,2024-02-07,2024-02-13,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0042,11/10/2022,PT Mitra Konstruksi 043,SUMATRA,Batam,crane,website,Andi Pratama,Closed Won,2022-10-15,2022-10-18,2022-10-21,62800000.0,,,4,1,1,1,1
+LD-0992,2026-06-21,PT Mitra Konstruksi 993,Bali,Denpassar,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2026-06-22,2026-06-27,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0442,2024-04-28,PT Mitra Konstruksi 443,Jawa,Surabaya,Crane,Website,Dewi Lestari,Closed Lost,2024-04-29,2024-05-03,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0697,2025-03-28,PT Mitra Konstruksi 698,Bali,Gianyar,Scissor Lift,Referral,Dewi Lestari,Closed Lost,2025-04-02,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0295,2023-10-10,PT Mitra Konstruksi 296,Jawa,Bandung,Crane,Website,Eko Kurniawan,Lead In,,,,,,,1,1,0,0,0
+LD-0483,2024-06-07,PT Mitra Konstruksi 484,bali,Gianyar,telehandler,REFERRAL,Vino Jayrasta,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0472,2024-06-15,PT Mitra Konstruksi 473,Jawa,Semarang,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2024-06-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0461,2024-05-15,PT Mitra Konstruksi 462,Sumatra,Medan,Boom Lift,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0391,2024-02-20,PT Mitra Konstruksi 392,Bali,Denpasar,Sky Lift,Web,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0290,15-Oct-2023,PT Mitra Konstruksi 291,Jawa,Jakarta,Boom Lift,Website,Andi Pratama,Closed Lost,2023-10-21,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0497,2024-07-19,PT Mitra Konstruksi 498,Sumatra,Medan,SKYLIFT,referral,Dewi Lestari,CLOSED LOST,2024-07-20,2024-07-28,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0021,2022-08-18,PT Mitra Konstruksi 022   ,Sumatra,Batam   ,Scissor  Lift,WhatsApp, Sari Rahmawati ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0639,2025-01-16,PT Mitra Konstruksi 640,Jawa,Gresik,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0819,2025-09-13,PT Mitra Konstruksi 820,Bali,Gianyar,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0836,2025-10-29,PT Mitra Konstruksi 837,jawa,Jakarta,Boom Lift,GOOGLE ADS,Vino Jayrasta,closed lost,2025-11-01,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0861,16-Dec-2025,PT Mitra Konstruksi 862,Bali,BADUNG,Telehandler,WhatsApp,Fajar Nugroho,Closed Lost,2025-12-22,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0713,2025-04-24,PT Mitra Konstruksi 714,Jawa,Bandung,Carmix,WhatsApp,Vino Jayrasta,Closed Lost,2025-04-26,2025-04-29,,,Negotiation,Price too high,5,1,1,1,0
+LD-0395,2024-02-09,PT Mitra Konstruksi 396,Sumatra,Medan,Telehandler,Google Ads,Eko Kurniawan,Closed Won,2024-02-14,2024-02-19,2024-01-24,21500000.0,,,4,1,1,1,1
+LD-0062,2022-10-17,PT Mitra Konstruksi 063,Jawa,Surabaya,BOOM LIFT ,Refferal,budi santoso,Closed Lost,2022-10-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0810,2025-09-23,PT Mitra Konstruksi 811,Jawa,Bandung,Crane,Referral,Eko Kurniawan,Closed Lost,2025-09-25,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0485,2024-06-07,PT Mitra Konstruksi 486,SUMATRA,Medan,Boom Lift,Whatsapp,Budi Santoso,Closed Lost,2024-06-09,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0811,2025-09-17,PT Mitra Konstruksi 812,Sumatra,Palembang,Scissor Lift,Google Ads,Fajar Nugroho,Closed Won,2025-09-19,2025-09-28,2025-10-05,17500000.0,,,4,1,1,1,1
+LD-0154,2023-03-09,PT Mitra Konstruksi 155,Jawa,Jakarta,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0358,2024-01-10,PT Mitra Konstruksi 359,Sumatra,Palembang,Telehandler,Email,Dewi Lestari,Closed Won,2024-01-15,2024-01-20,2024-01-29,21100000.0,,,4,1,1,1,1
+LD-0139,2023-02-14,PT Mitra Konstruksi 140,Jawa,Gresikk,Crane,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0806,2025-09-18,PT Mitra Konstruksi 807,Bali,Gianyar,Scissor Lift,Google Ads,Dewi Lestari,Closed Lost,2025-09-24,2025-10-03,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0260,2023-08-13,PT Mitra Konstruksi 261,Bali,Denpasar,Crane,Referral,Fajar Nugroho,Closed Won,2023-08-16,2023-08-23,2023-08-31,54900000.0,,,4,1,1,1,1
+LD-0425,2024-03-23,PT Mitra Konstruksi 426,Bali,Badung,Skylift,Referral,Vino Jayrasta,Closed Lost,28.03.2024,2024-04-03,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0948,2026-04-03,PT Mitra Konstruksi 949,Jawa,Gresik,Skylift,WhatsApp,Fajar Nugroho,Closed Lost,2026-04-07,2026-04-13,,,Negotiation,Price too high,5,1,1,1,0
+LD-0496,2024-06-15,PT Mitra Konstruksi 497,Jawa,Sidoarjo,Scissor Lift,Google Ads,Sari Rahmawati,Closed Lost,2024-06-17,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0881,2025-12-13,PT Mitra Konstruksi 882,Bali,Gianyar,Tele Handler,whatsapp,Sari R.,Closed Lost,2025-12-15,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0513,2024-07-25,PT Mitra Konstruksi 514,Jawa,Jakarta,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0261,2023-08-15,PT Mitra Konstruksi 262,Sumatra,Palembang,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,18-Aug-2023,2023-08-27,,,Negotiation,Price too high,5,1,1,1,0
+LD-0598,2024-11-18,PT Mitra Konstruksi 599,Jawa,Surabaya,Boom Lift,Google Ads,Eko Kurniawan,Closed Won,23.11.2024,2024-12-02,2024-12-09,14000000.0,,,4,1,1,1,1
+LD-0510,2024-07-29,PT Mitra Konstruksi 511,Sumatra,Palembang,Crane,WA,Vino J.,Closed Won,2024-08-04,2024-08-11,2024-08-15,69100000.0,,,4,1,1,1,1
+LD-0070,2022-11-14,PT Mitra Konstruksi 071,Jawa,Semarang,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Won,2022-11-20,2022-11-27,2022-11-29,19700000.0,,,4,1,1,1,1
+LD-0800,2025-08-03,PT Mitra Konstruksi 801,Jawa,Bandung,Scissor Lift,Referral,Fajar Nugroho,Closed Lost,2025-08-05,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0618,2024-12-10,PT Mitra Konstruksi 619,Bali,Gianyar,boom lift,whatsapp,budi santoso,Closed Won,2024-12-11,2024-12-16,2024-12-19,11600000.0,,,4,1,1,1,1
+LD-0398,2024-02-10,PT Mitra Konstruksi 399,Jawa,Surabaya,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Won,2024-02-14,2024-02-23,2024-03-03,16000000.0,,,4,1,1,1,1
+LD-0310,2023-11-25,PT Mitra Konstruksi 311,sumatra,Medan,skylift,WEBSITE,Sari Rahmawati,closed won,2023-11-26,2023-12-03,2023-12-10,24000000.0,,,4,1,1,1,1
+LD-0145,2023-03-10,PT Mitra Konstruksi 146,Jawa,Surabaya,Carmix,WhatsApp,Sari Rahmawati,Closed Won,2023-03-11,2023-03-20,2023-04-02,28200000.0,,,4,1,1,1,1
+LD-0470,2024-06-13,PT Mitra Konstruksi 471,Bali,Denpasar,boom lift,Whats App,Rina W.,Closed Won,2024-06-19,2024-06-28,2024-07-09,8500000.0,,,4,1,1,1,1
+LD-0246,2023-07-27,PT Mitra Konstruksi 247,Jawa,Semarang,Scissor Lift,Email,Budi Santoso,Closed Lost,2023-08-02,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0741,2025-05-10,PT Mitra Konstruksi 742,Jawa,Semarang,Telehandler,Website,Vino Jayrasta,Closed Lost,2025-05-11,2025-05-18,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0401,2024-02-25,PT Mitra Konstruksi 402,Jawa,Gresik,Carmix,Website,Vino Jayrasta,Closed Lost,2024-03-01,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0807,2025-09-12,PT Mitra Konstruksi 808,Jawa,Bandung,Crane,WA,RINA WULANDARI,Lead In,,,,,,,1,1,0,0,0
+LD-0464,2024-05-14,PT Mitra Konstruksi 465,Jawa,Semarang,Crane,WhatsApp,Dewi Lestari,Closed Lost,20.05.2024,2024-05-25,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0071,2022-11-04,PT Mitra Konstruksi 072,Sumatra,Medan,Skylift,Referral,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0520,2024-08-13,PT Mitra Konstruksi 521,Bali,Gianyar,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,18.08.2024,2024-08-22,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0221,2023-06-24,PT Mitra Konstruksi 222,Bali,Badung,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2023-06-28,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0936,2026-03-24,PT Mitra Konstruksi 937,Sumatra,Batam,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2026-03-26,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0699,2025-03-02,PT Mitra Konstruksi 700,Jawa,Sidoarjo,Boom Lift,Website,Dewi Lestari,Closed Lost,2025-03-08,2025-03-16,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0870,2025-12-10,PT Mitra Konstruksi 871,Bali,Denpasar,Scissor Lift,Email,Sari Rahmawati,Closed Lost,2025-12-12,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0317,2023-11-09,PT Mitra Konstruksi 318,Sumatra,Medan,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,2023-11-11,2023-11-14,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0010,2022-08-27,PT Mitra Konstruksi 011,Jawa,Sidoarjo,Boom Lift,Email,Dewi Lestari,Closed Lost,2022-09-02,2022-09-06,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0150,2023-03-10,PT Mitra Konstruksi 151,Jawa,Bandung,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,2023-03-16,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0436,2024-04-08,PT Mitra Konstruksi 437,Jawa,Jakarta,Telehandler,Google Ads,Dewi Lestari,Closed Lost,2024-04-10,2024-04-13,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0954,2026-04-07,PT Mitra Konstruksi 955,Bali,Denpasar,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,2026-04-12,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0318,2023-11-22,PT Mitra Konstruksi 319   ,Jawa,  Surabaya, Scissor Lift ,Email, Vino Jayrasta ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1021,2026-07-25,PT Mitra Konstruksi 1022,Bali,Gianyar,Crane,Email,Andi Pratama,Closed Won,2026-07-28,2026-08-04,2026-08-16,16100000.0,,,4,1,1,1,1
+LD-0617,2024-12-24,PT Mitra Konstruksi 618,Jawa,Surabaya,Crane,Google Ads,Andi Pratama,Closed Lost,2024-12-29,2025-01-05,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0804,2025-08-25,PT Mitra Konstruksi 805,Bali,Badung,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0374,2024-01-04,PT Mitra Konstruksi 375,Bali,Badung,Scissor Lift,Google Ads,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0041,16-Sep-2022,PT Mitra Konstruksi 042,Bali,Denpasar,Telehandler,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0727,2025-05-08,PT Mitra Konstruksi 728,Jawa,,boom lift,,Rina Wulandari,closed lost,11.05.2025,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0814,2025-09-27,PT Mitra Konstruksi 815,Jawa,Jakarta,Boom Lift,web site,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0114,2023-01-15,PT Mitra Konstruksi 115,Jawa,Surabaya,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2023-01-20,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0833,2025-10-04,PT Mitra Konstruksi 834,Jawa,Surabaya,Skylift,Google Ads,Rina Wulandari,Closed Lost,2025-10-09,2025-10-14,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0416,2024-03-19,PT Mitra Konstruksi 417,Jawa,Gresik,SKYLIFT,G-Ads,Dewi Lestari,Closed Lost,2024-03-23,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0170,2023-04-11,PT Mitra Konstruksi 171,Jawa,Jakarta,Telehandler,WhatsApp,Vino Jayrasta,Closed Lost,2023-04-16,2023-04-20,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-1003,08.06.2026,PT Mitra Konstruksi 1004,Jawa,Sidoarjo,Crane,Referral,Vino Jayrasta,Closed Lost,2026-06-13,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0034,2022-09-20,PT Mitra Konstruksi 035,Jawa,,Scissor Lift,,Fajar Nugroho,Closed Lost,2022-09-24,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0206,2023-05-17,PT Mitra Konstruksi 207,Jawa,Sidoarjo,Skylift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0045,2022-10-17,PT Mitra Konstruksi 046,Bali,Badung,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2022-10-21,2022-10-27,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0269,2023-09-08,PT Mitra Konstruksi 270,JAWA,Jakarta,skylift,google ads,Vino Jayrasta,closed lost,10/09/2023,19-Sep-2023,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0550,28.09.2024, PT Mitra Konstruksi 551 ,Jawa,  Surabaya,Scissor  Lift,WhatsApp,Budi  Santoso,Closed Lost,2024-09-30,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0007,2022-08-22,PT Mitra Konstruksi 008,JAWA,Semarang,boom lift,email,Rina Wulandari,CLOSED WON,2022-08-26,04-Sep-2022,2022-09-12,30300000.0,,,4,1,1,1,1
+LD-0372,2024-01-29,PT Mitra Konstruksi 373,Jawa,Bandung,Scissor  Lift,whatsapp,Dewi Lestari,Closed Lost,2024-02-04,2024-02-09,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0816,2025-09-11,PT Mitra Konstruksi 817,Jawa,Semarang,Skylift,WhatsApp,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0240,2023-07-09,PT  Mitra Konstruksi 241,Jawa,Sidoarjo,Crane   ,E-mail,budi santoso,Closed Lost,2023-07-13,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0084,2022-12-29,PT Mitra Konstruksi 085,Jawa,Surabaya,boom lift,E-mail,Rina W.,Closed Lost,2023-01-01,2023-01-08,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0721,2025-04-08,PT Mitra Konstruksi 722,Bali,Badung,Skylift,Website,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0647,2025-01-12,PT  Mitra Konstruksi 648,Jawa,  Semarang,  Scissor Lift,WhatsApp,Fajar Nugroho   ,Lead In,,,,,,,1,1,0,0,0
+LD-0840,2025-11-05,PT Mitra Konstruksi 841,Jawa,Surabaya,Skylift,Website,Sari Rahmawati,Closed Lost,2025-11-06,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0486,22/06/2024,PT Mitra Konstruksi 487,Jawa,Gresik,Scissor Lift,Website,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0565,2024-10-02,PT Mitra Konstruksi 566,Jawa,Semarang,Telehandler,Google Ads,Vino Jayrasta,Closed Won,2024-10-04,2024-10-13,2024-10-25,19800000.0,,,4,1,1,1,1
+LD-0493,2024-06-04,PT Mitra Konstruksi 494,Jawa,Gresik,Skylift,Website,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0251,2023-08-12,PT Mitra Konstruksi 252,Jawa,Semarang,Telehandler,Google Ads,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0670,2025-02-12,PT Mitra Konstruksi 671,Jawa,Bandung,Skylift,Website,Andi Pratama,Closed Lost,2025-02-16,2025-02-23,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0239,2023-07-09,PT Mitra Konstruksi 240,SUMATRA,Palembang,boom lift,Web,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0905,15/01/2026,PT Mitra Konstruksi 906,Jawa,Bandung,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0273,2023-09-19,PT Mitra Konstruksi 274,Jawa,Sidoarjo,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2023-09-23,2023-09-27,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0489,05-Jun-2024,PT Mitra Konstruksi 490,Bali,Gianyar,Boom Lift,Website,Vino Jayrasta,Closed Won,2024-06-08,2024-06-13,2024-06-17,,,,4,1,1,1,1
+LD-0311,2023-11-15, PT Mitra Konstruksi 312 ,jawa,Sidoarjo   ,  SKYLIFT,WHATSAPP,  Andi Pratama,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0186,2023-05-18, PT Mitra Konstruksi 187 ,Bali,Badung   ,Telehandler   ,Email,Fajar Nugroho   ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0695,2025-03-17,PT Mitra Konstruksi 696,Jawa,Semarang,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0604,2024-12-03,PT Mitra Konstruksi 605,Jawa,Gresik,Scissor Lift,Website,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0879,2025-12-03,PT Mitra Konstruksi 880,sumatra,Batam,boom lift,Google Ads,Rina Wulandari,closed won,2025-12-07,2025-12-12,2025-12-18,16700000.0,,,4,1,1,1,1
+LD-0632,2025-01-16,PT Mitra Konstruksi 633,Sumatra,Medan,boom lift,WHATSAPP,budi santoso,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0404,2024-03-06,PT Mitra Konstruksi 405,Jawa,Surabaya,Scissor Lift,Email,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0681,2025-02-18,PT Mitra Konstruksi 682,Jawa,Bandung,Crane,Referral,Sari Rahmawati,Closed Lost,2025-02-20,2025-02-25,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0136,2023-02-24,PT Mitra Konstruksi 137,JAWA,Bandung,Telehandler,email,Eko Kurniawan,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0569,2024-10-12,PT Mitra Konstruksi 570,Jawa,Sidoarjo,Telehandler,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0769,2025-06-20,PT Mitra Konstruksi 770,Jawa,Sidoarjo,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0458,2024-05-15,PT MITRA KONSTRUKSI 459   ,Jawa,  Bandung,Skylift   ,Email,  Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0256,2023-08-27,PT Mitra Konstruksi 257,Jawa,Jakarta,ScissorLift,Google Adwords,Rina W.,Closed Lost,2023-09-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0846,2025-11-18,PT  Mitra Konstruksi 847,Jawa, Gresik ,  Crane,WhatsApp, Fajar Nugroho ,Closed Won,2025-11-23,2025-12-01,2025-12-03,67900000.0,,,4,1,1,1,1
+LD-0503,13.07.2024,PT Mitra Konstruksi 504,Jawa,Jakarta,Boom Lift,Google Ads,Budi Santoso,Closed Lost,2024-07-14,2024-07-16,,,Negotiation,Price too high,5,1,1,1,0
+LD-0017,2022-08-02,PT Mitra Konstruksi 018,Jawa,Semarang,Boom Lift,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0876,2025-12-06,PT Mitra Konstruksi 877,Sumatra,Medan,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2025-12-07,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0381,2024-02-01,PT Mitra Konstruksi 382,Jawa,Surabaya,Scissor Lift,WhatsApp,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0714,2025-04-02,PT Mitra Konstruksi 715,Sumatra,Batam,Boom Lift,Email,Sari Rahmawati,Closed Won,2025-04-07,2025-04-12,2025-04-21,23900000.0,,,4,1,1,1,1
+LD-0082,2022-12-12,PT Mitra Konstruksi 083,Jawa,Surabaya,Crane,Google Adwords,Fajar Nugroho,Closed Lost,2022-12-13,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0350,2023-12-31,PT Mitra Konstruksi 351,Sumatra,Batam,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,2024-01-04,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0963,2026-04-21,PT Mitra Konstruksi 964,Sumatra,Medan,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Won,2026-04-27,2026-04-30,2026-05-03,19800000.0,,,4,1,1,1,1
+LD-0740,14-May-2025,PT Mitra Konstruksi 741,Jawa,Jakarta,Telehandler,Google Ads,Budi Santoso,Closed Lost,2025-05-18,2025-05-20,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0640,15-Jan-2025,PT Mitra Konstruksi 641,Jawa,Jakarta,ScissorLift,G-Ads,Eko Kurniawan,Closed Lost,2025-01-16,2025-01-24,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0088,2022-12-11,PT Mitra Konstruksi 089,Jawa,Jakarta,BOOM LIFT ,Refferal,budi santoso,Closed Lost,2022-12-13,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0508,2024-07-07,PT Mitra Konstruksi 509,Bali,Badung,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2024-07-08,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0733,2025-05-07, PT Mitra Konstruksi 734 ,Sumatra, Batam ,  Skylift,Email,Rina Wulandari   ,Closed Lost,2025-05-09,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0296,2023-10-15,PT Mitra Konstruksi 297   ,Sumatra, Medan ,Boom Lift   ,Website,  Dewi Lestari,Closed Lost,2023-10-20,2023-10-28,,,Negotiation,Price too high,5,1,1,1,0
+LD-0002,2022-08-24,PT Mitra Konstruksi 003,Bali,Denpasar,Carmix,Email,Andi Pratama,Closed Lost,2022-08-29,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0343,2023-12-30,PT Mitra Konstruksi 344,Jawa,Sidoarjo,Crane,Google Ads,Andi Pratama,Closed Lost,2024-01-02,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0910,2026-02-25,PT Mitra Konstruksi 911,Jawa,Jakarta,Telehandler,Referral,Rina Wulandari,Closed Lost,2026-02-27,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0197,2023-05-10,PT Mitra Konstruksi 198,Sumatra,Medan,Boom Lift,Website,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0341,2023-12-30,PT Mitra Konstruksi 342,Jawa,Jakarta,Carmix,Website,Dewi Lestari,Closed Lost,2024-01-02,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0075,2022-11-15,PT Mitra Konstruksi 076,Jawa,Semarang,Skylift,Website,Rina Wulandari,Closed Lost,2022-11-16,2022-11-21,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0278,2023-09-19,PT Mitra Konstruksi 279,Jawa,Jakarta,Scissor Lift,Email,Budi Santoso,Closed Lost,2023-09-25,2023-10-02,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0890,2026-01-28,PT Mitra Konstruksi 891,Jawa,Semarang,Scissor Lift,WhatsApp,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0069,2022-11-18,PT Mitra Konstruksi 070   ,Bali, Gianyar ,Boom Lift   ,WhatsApp,  Andi Pratama,Closed Lost,2022-11-23,2022-11-29,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0856,2025-11-16,PT Mitra Konstruksi 857,Jawa,Jakarta,Crane,Referral,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0424,2024-03-26,PT Mitra Konstruksi 425,Jawa,Surabaya,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,31.03.2024,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0047,2022-10-12,PT Mitra Konstruksi 048,Sumatra,Batam,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0254,2023-08-08,PT Mitra Konstruksi 255,Sumatra,Palembang,Skylift,Website,Andi Pratama,Closed Lost,2023-08-12,2023-08-17,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0338,2023-12-22,PT Mitra Konstruksi 339,Bali,Denpasar,Boom Lift,WhatsApp,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0853,2025-11-01,PT Mitra Konstruksi 854,Jawa,Semarang,Telehandler,WhatsApp,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0001,11/08/2022,PT Mitra Konstruksi 002,Bali,Denpasar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0380,2024-02-22, PT Mitra Konstruksi 381 ,Jawa,,  Crane,,,Closed Lost,2024-02-26,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0674,2025-02-16,PT Mitra Konstruksi 675,Jawa,Gresik,Skylift,Website,Budi Santoso,Closed Lost,2025-02-17,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0745,2025-05-09,PT Mitra Konstruksi 746   ,Jawa, Sidoarjo , Crane ,Website,Budi Santoso   ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0922,07.02.2026,PT Mitra Konstruksi 923,Jawa,Jakarta,Carmix,referal,SARI RAHMAWATI,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1019,24-Jul-2026,PT Mitra Konstruksi 1020,Jawa,Sidoarjo,boom lift,Google Adwords,SARI RAHMAWATI,Closed Lost,2026-07-28,2026-08-01,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0263,2023-08-25,PT Mitra Konstruksi 264,Jawa,Gresik,CRANE,whatsapp,Sari Rahmawati,CLOSED LOST,2023-08-31,2023-09-02,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0921,01.02.2026,PT Mitra Konstruksi 922,Sumatra,Medan,Scissor Lift,Website,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0574,2024-10-26,PT Mitra Konstruksi 575   ,Sumatra,Batam   ,Boom  Lift,Google Ads,  Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0558,12.10.2024,PT Mitra Konstruksi 559,Jawa,Semarang,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,2024-10-16,19-Oct-2024,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0979,2026-05-05,PT Mitra Konstruksi 980,sumatra,Palembang,SKYLIFT,GOOGLE ADS,Sari Rahmawati,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0215,2023-06-24,PT Mitra Konstruksi 216,Bali,Badung,Skylift,Google Ads,Vino Jayrasta,Closed Won,2023-06-30,2023-07-09,2023-07-20,29500000.0,,,4,1,1,1,1
+LD-0115,2023-01-08,PT Mitra Konstruksi 116,Sumatra,Batam,Crane,Website,Vino Jayrasta,Closed Lost,2023-01-11,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0742,2025-05-22,PT Mitra Konstruksi 743,Bali,Denpasar,Scissor Lift,Google Ads,Dewi Lestari,Closed Lost,2025-05-27,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0530,2024-08-22,PT Mitra Konstruksi 531,sumatra,Palembang,CRANE,WEBSITE,Dewi Lestari,lead in,,,,,,,1,1,0,0,0
+LD-0920,2026-02-18,PT Mitra Konstruksi 921,Jawa,Semarang,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,21-Feb-2026,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0889,2026-01-23,PT Mitra Konstruksi 890,Sumatra,Batam,Telehandler,Email,Fajar Nugroho,Closed Lost,29-Jan-2026,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0789,2025-08-26,PT Mitra Konstruksi 790,Jawa,Sidoarjo,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,30-Aug-2025,2025-09-08,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0669,21/02/2025,PT Mitra Konstruksi 670,Bali,Badung,Telehandler,Google Ads,Vino Jayrasta,Closed Lost,2025-02-24,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0200,2023-05-19,PT Mitra Konstruksi 201,Jawa,Surabaya,Carmix,web site,RINA WULANDARI,Closed Lost,2023-05-22,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0339,2023-12-19,PT Mitra Konstruksi 340,Jawa,Jakarta,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2023-12-23,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0776,2025-07-31,PT Mitra Konstruksi 777,Bali,Gianyar,Crane,Website,Rina Wulandari,Closed Lost,2025-08-06,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0515,2024-07-27,PT Mitra Konstruksi 516,Jawa,Semarang,Boomlift,Web,SARI RAHMAWATI,Closed Lost,2024-07-28,2024-08-01,,,Negotiation,Price too high,5,1,1,1,0
+LD-0772,2025-07-26,PT Mitra Konstruksi 773,Jawa,Surabaya,Carmix,WhatsApp,Budi Santoso,Closed Lost,2025-07-31,2025-08-03,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0966,2026-05-03,PT Mitra Konstruksi 967,Bali,Gianyar,Skylift,WhatsApp,Sari Rahmawati,Closed Won,04-May-2026,2026-05-08,2026-05-14,,,,4,1,1,1,1
+LD-0877,2025-12-05,PT Mitra Konstruksi 878,Jawa,Jakarta,Boom Lift,Google Ads,Fajar Nugroho,Closed Lost,06.12.2025,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0392,03/02/2024,PT Mitra Konstruksi 393,Bali,Badung,Scissor  Lift,whatsapp,budi santoso,Closed Lost,2024-02-07,11.02.2024,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-1004,2026-06-13,  PT Mitra Konstruksi 1005,,,Boom  Lift,,,Lead In,,,,,,,1,1,0,0,0
+LD-0923,2026-02-26,PT Mitra Konstruksi 924,Jawa,Sidoarjo,Carmix,web site,Sari R.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0518,25/08/2024,PT Mitra Konstruksi 519,Jawa,Semarang,Skylift,Google Ads,Vino Jayrasta,Closed Won,2024-08-28,2024-09-03,2024-09-14,12900000.0,,,4,1,1,1,1
+LD-0878,2025-12-25,PT Mitra Konstruksi 879,Jawa,Bandung,Skylift,Google Ads,Dewi Lestari,Closed Lost,2025-12-27,2026-01-04,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0020,2022-08-28,PT Mitra Konstruksi 021,Bali,Gianyar,Crane,Email,Andi Pratama,Closed Lost,2022-08-29,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0086,2022-12-23,PT Mitra Konstruksi 087,Jawa,Jakarta,SKYLIFT,web site,SARI RAHMAWATI,closed lost,29-Dec-2022,2023-01-06,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0212,2023-06-14,PT Mitra Konstruksi 213,Jawa,Sidoarjo,Crane,Website,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0665,2025-02-17,PT Mitra Konstruksi 666,Bali,Badung,Carmix,WhatsApp,Dewi Lestari,Closed Lost,2025-02-23,2025-02-25,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0614,2024-12-14,PT Mitra Konstruksi 615,Jawa,Semarang,SKYLIFT,Whats App,Vino J.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0935,2026-03-03,PT Mitra Konstruksi 936,Sumatra,Batam,Boom Lift,WhatsApp,Vino Jayrasta,Closed Won,2026-03-04,2026-03-11,2026-03-17,12000000.0,,,4,1,1,1,1
+LD-0693,2025-03-26,PT Mitra Konstruksi 694,Jawa,Gresik,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0703,2025-03-28,PT Mitra Konstruksi 704,bali,Gianyar,CARMIX,EMAIL,Rina Wulandari,Closed Lost,02-Apr-2025,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0989,08-May-2026,PT Mitra Konstruksi 990,Jawa,Sidoarjo,Skylift,Website,Andi Pratama,Closed Lost,2026-05-09,2026-05-14,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0712,2025-04-03,PT Mitra Konstruksi 713,Bali,Gianyar,Skylift,Email,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0691,2025-03-31,PT Mitra Konstruksi 692,Bali,Gianyar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2025-04-05,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0286,2023-10-02,PT Mitra Konstruksi 287,Jawa,Gresikk,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Won,2023-10-04,2023-10-11,2023-10-14,18200000.0,,,4,1,1,1,1
+LD-0564,2024-10-12,PT Mitra Konstruksi 565,Jawa,Sidoarjo,Boom Lift,Website,Vino Jayrasta,Closed Lost,15.10.2024,2024-10-23,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0231,2023-07-22,PT Mitra Konstruksi 232,Jawa,,Skylift,,,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0181,2023-04-10,PT Mitra Konstruksi 182,jawa,Surabaya,crane,WHATSAPP,Andi P,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0008,2022-08-25,PT Mitra Konstruksi 009   ,Sumatra, Medan , Scissor Lift ,WhatsApp,  Fajar Nugroho,Closed Lost,2022-08-29,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0867,2025-12-29,PT Mitra Konstruksi 868,Sumatra,Palembang,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Won,2025-12-31,2026-01-09,2026-01-11,5300000.0,,,4,1,1,1,1
+LD-0579,2024-10-18, PT Mitra Konstruksi 580 ,Sumatra, Batam ,  Skylift,google ads,  Andi Pratama,Closed Lost,2024-10-22,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0227,2023-06-29,  PT Mitra Konstruksi 228,Jawa,Sidoarjo   , Crane ,Google Ads,  Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0119,2023-01-16,PT Mitra Konstruksi 120,Sumatra,Batam,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2023-01-17,2023-01-21,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0765,2025-06-09,PT Mitra Konstruksi 766,Jawa,Bandung,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,2025-06-12,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0882,2025-12-08,  PT Mitra Konstruksi 883,Jawa,  Bandung,Scissor  Lift,G-Ads,andi pratama,Closed Won,2025-12-11,2025-12-19,2025-12-28,14600000.0,,,4,1,1,1,1
+LD-0126,2023-02-06,PT Mitra Konstruksi 127,Jawa,Bandung,Boom Lift,Google Ads,Eko Kurniawan,Closed Won,2023-02-10,12/02/2023,2023-02-16,26700000.0,,,4,1,1,1,1
+LD-0078,2022-11-06,PT Mitra Konstruksi 079,Sumatra,Palembang,Boom Lift,Website,Sari Rahmawati,Closed Won,2022-11-08,2022-11-13,2022-11-24,22400000.0,,,4,1,1,1,1
+LD-0305,2023-10-20,PT Mitra Konstruksi 306,Bali,Gianyar,Skylift,Google Ads,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0913,2026-02-19,PT Mitra Konstruksi 914,Jawa,Jakarta,Skylift,Referral,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0288,2023-10-27,PT Mitra Konstruksi 289,Jawa,Bandung,Crane,google ads,andi pratama,Closed Lost,2023-10-30,2023-11-01,,,Negotiation,Price too high,5,1,1,1,0
+LD-0345,2023-12-20,PT Mitra Konstruksi 346,,,Boom Lift,,,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0711,2025-04-30,PT Mitra Konstruksi 712,Jawa,Bandung,BOOM LIFT,website,Vino Jayrasta,CLOSED LOST,2025-05-04,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0081,20/11/2022,PT Mitra Konstruksi 082,Jawa,Bandung,Boom Lift,WHATSAPP,Rina Wulandari,closed lost,2022-11-23,2022-11-25,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0074,2022-11-26,PT Mitra Konstruksi 075,Jawa,Surabaya,telehandler,G-Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0390,2024-02-22,PT Mitra Konstruksi 391,Jawa,Gresik,Crane,Email,Rina Wulandari,Closed Lost,2024-02-28,2024-03-07,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0140,2023-02-15,PT Mitra Konstruksi 141,Jawa,Semarang,Skylift,Google Ads,Andi Pratama,Closed Lost,2023-02-16,2023-02-23,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0258,2023-08-30,PT Mitra Konstruksi 259,Jawa,Semarang,Telehandler,WhatsApp,Vino Jayrasta,Closed Lost,2023-09-04,2023-09-12,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0438,2024-04-12, PT Mitra Konstruksi 439 ,JAWA,  Semarang,boom lift   ,EMAIL, Rina Wulandari ,closed lost,2024-04-17,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0333,2023-11-17,PT Mitra Konstruksi 334,Jawa,Surabaya,Boom Lift,WhatsApp,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0885,03/01/2026,PT Mitra Konstruksi 886,Jawa,Semarang,Crane,WhatsApp,Eko Kurniawan,Closed Won,2026-01-09,2026-01-11,2026-01-15,32300000.0,,,4,1,1,1,1
+LD-0289,2023-10-23,PT Mitra Konstruksi 290,Jawa,Semarang,Scissor Lift,Email,Budi Santoso,Closed Won,2023-10-25,2023-10-30,2023-11-05,18600000.0,,,4,1,1,1,1
+LD-0484,2024-06-22,PT Mitra Konstruksi 485,jawa,Sidoarjo,SKYLIFT,REFERRAL,Dewi Lestari,Closed Lost,2024-06-27,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0196,2023-05-26,PT Mitra Konstruksi 197,jawa,Sidoarjo,Scissor Lift,website,Rina Wulandari,CLOSED LOST,2023-05-30,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0053,2022-10-31,PT Mitra Konstruksi 054,Bali,Denpasar,Skylift,WhatsApp,Rina Wulandari,Closed Lost,2022-11-01,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0144,2023-02-13,PT Mitra Konstruksi 145   ,Jawa,Bandung,Boom  Lift,WhatsApp,Vino Jayrasta   ,Closed Lost,2023-02-19,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0067,2022-11-17,PT Mitra Konstruksi 068   ,Jawa,Jakarta,Boom  Lift,WhatsApp, Dewi Lestari ,Closed Lost,2022-11-23,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0851,2025-11-28,PT Mitra Konstruksi 852,Jawa,Gresik,Carmix,Google Ads,Dewi Lestari,Closed Lost,2025-12-04,2025-12-09,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0309,2023-10-19,PT Mitra Konstruksi 310,Jawa,Bandung,Scissor Lift,Referral,Vino Jayrasta,Closed Won,2023-10-20,2023-10-25,2023-11-01,10300000.0,,,4,1,1,1,1
+LD-0226,2023-06-18,PT Mitra Konstruksi 227,Jawa,Sidoarjo,Boom Lift,WhatsApp,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0525,2024-08-24,PT Mitra Konstruksi 526,Sumatra,Medan,Boom Lift,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1012,2026-07-19,PT Mitra Konstruksi 1013,Jawa,Surabaya,Scissor Lift,Email,Rina Wulandari,Closed Won,2026-07-21,24/07/2026,2026-08-03,14400000.0,,,4,1,1,1,1
+LD-0932,2026-03-28,PT Mitra Konstruksi 933,Jawa,Bandung,Crane,Email,Budi Santoso,Closed Lost,2026-03-30,2026-04-05,,,Negotiation,Price too high,5,1,1,1,0
+LD-0444,2024-04-10,PT Mitra Konstruksi 445,,,Boomlift,,,Closed Lost,2024-04-12,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0022,2022-08-28,PT Mitra Konstruksi 023,Jawa,Surabaya,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0412,12.03.2024,PT Mitra Konstruksi 413,Jawa,Jakarta,Boom Lift,Email,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0567,2024-10-16,PT Mitra Konstruksi 568,Jawa,Bandung,Scissor Lift,Google Ads,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0093,03.12.2022,PT Mitra Konstruksi 094,Jawa,Surabaya,Telehandler,referal,Rina Wulandari,Closed Won,2022-12-06,2022-12-10,2022-12-22,10900000.0,,,4,1,1,1,1
+LD-0871,2025-12-29,PT Mitra Konstruksi 872,Bali,Badung,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,02.01.2026,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0337,2023-11-16,PT Mitra Konstruksi 338,Sumatra,Batam,Carmix,whatsapp,Sari R.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0127,2023-02-03,PT Mitra Konstruksi 128,Jawa,Sidoarjo,Scissor Lift,Email,Dewi Lestari,Closed Lost,2023-02-07,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0049,2022-10-25,PT Mitra Konstruksi 050,Jawa,Bandung,Scissor  Lift,whatsapp,budi santoso,Closed Lost,30.10.2022,2022-11-02,,,Negotiation,Price too high,5,1,1,1,0
+LD-0796,2025-08-31,PT Mitra Konstruksi 797,Bali,Denpasar,Skylift,WhatsApp,Andi Pratama,Closed Won,05.09.2025,10-Sep-2025,2025-09-19,13000000.0,,,4,1,1,1,1
+LD-0353,2024-01-30,PT Mitra Konstruksi 354,,,Telehandler,,,Closed Lost,2024-02-05,12-Feb-2024,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0294,2023-10-17,PT Mitra Konstruksi 295,Jawa,Jakarta,skylift,Whatsapp,Vino Jayrasta,Closed Lost,2023-10-21,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0850,2025-11-05,PT Mitra Konstruksi 851,Jawa,Surabaya,boom lift,WA,Andi P,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0863,2025-12-03,PT Mitra Konstruksi 864,Jawa,Gresik,Boom Lift,Website,Fajar Nugroho,Closed Lost,2025-12-09,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0237,2023-07-16,PT Mitra Konstruksi 238,Sumatra,Medan,Carmix,Website,Dewi Lestari,Closed Lost,2023-07-22,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0754,2025-06-09,PT Mitra Konstruksi 755,,,Boom Lift,,,Lead In,,,,,,,1,1,0,0,0
+LD-0744,20-May-2025,PT Mitra Konstruksi 745,Jawa,Bandung,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0133,2023-02-22,PT Mitra Konstruksi 134,Bali,Gianyar,Telehandler,Referral,Dewi Lestari,Closed Won,2023-02-25,2023-03-03,15.03.2023,15100000.0,,,4,1,1,1,1
+LD-0447,2024-04-29,PT Mitra Konstruksi 448,Bali,Denpassar,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,2024-05-03,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0607,2024-12-03,PT Mitra Konstruksi 608,Jawa,Semarang,ScissorLift,email,Eko Kurniawan,Closed Lost,2024-12-07,2024-12-14,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0764,2025-06-28,PT Mitra Konstruksi 765,Sumatra,Medan,Boom Lift,Google Ads,Vino Jayrasta,Closed Won,2025-06-30,2025-07-06,08.07.2025,29900000.0,,,4,1,1,1,1
+LD-0609,07-Dec-2024,PT Mitra Konstruksi 610,Jawa,,Scissor Lift,,,Closed Lost,2024-12-08,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0490,2024-06-12,PT Mitra Konstruksi 491,Jawa,,Carmix,,Andi Pratama,Closed Won,2024-06-16,2024-06-20,2024-06-28,32700000.0,,,4,1,1,1,1
+LD-0241,2023-07-21,PT Mitra Konstruksi 242,Jawa,Sidoarjo,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0511,2024-07-29,PT Mitra Konstruksi 512,Jawa,Jakarta,Scissor Lift,Website,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0858,2025-11-24,PT Mitra Konstruksi 859,Jawa,,Crane,,,Closed Lost,2025-11-29,2025-12-06,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0603,2024-12-10,PT Mitra Konstruksi 604,Sumatra,Palembang,Scissor Lift,Website,Vino Jayrasta,Closed Lost,14-Dec-2024,2024-12-19,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0153,2023-03-15,PT Mitra Konstruksi 154,Jawa,Sidoarjo,Crane,Referral,Vino Jayrasta,Closed Lost,2023-03-21,2023-03-27,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0577,18.10.2024,PT Mitra Konstruksi 578,Jawa,Semarang,Skylift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0652,2025-01-05,PT Mitra Konstruksi 653,Sumatra,Medan,Boomlift,Web,budi santoso,Closed Lost,2025-01-10,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0100,2022-12-16, PT Mitra Konstruksi 101 ,JAWA,Bandung,  boom lift,GOOGLE ADS,Andi  Pratama,closed lost,2022-12-18,2022-12-26,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0959,2026-04-07,PT Mitra Konstruksi 960,Jawa,Gresik,Skylift,Website,Budi Santoso,Closed Lost,2026-04-12,2026-04-18,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0641,2025-01-12,PT  Mitra Konstruksi 642,Jawa, Sidoarjo ,Boom  Lift,Referral,Andi Pratama   ,Closed Lost,2025-01-16,2025-01-22,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0790,2025-08-01,PT Mitra Konstruksi 791,Jawa,Gresik,Crane,google ads,Budi Santoso,CLOSED LOST,2025-08-07,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0365,2024-01-19,PT Mitra Konstruksi 366,Bali,Gianyar,Crane,WhatsApp,Andi Pratama,Closed Lost,2024-01-20,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0707,2025-04-07,PT Mitra Konstruksi 708,Bali,Badung,Telehandler,Email,Rina Wulandari,Closed Lost,2025-04-09,2025-04-13,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0828,2025-10-26,PT Mitra Konstruksi 829,Jawa,Jakarta,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,2025-11-01,2025-11-03,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0499,2024-07-03,PT Mitra Konstruksi 500,Jawa,Semarang,Scissor  Lift,google ads,Eko Kurniawan,Closed Won,2024-07-06,2024-07-13,2024-06-20,5200000.0,,,4,1,1,1,1
+LD-1013,2026-07-20,PT Mitra Konstruksi 1014,Jawa,Sidoarjo,Boom Lift,Email,Dewi Lestari,Closed Won,2026-07-26,2026-08-02,2026-08-15,31400000.0,,,4,1,1,1,1
+LD-0880,2025-12-15,PT Mitra Konstruksi 881,Jawa,Bandung,Telehandler,Email,Rina Wulandari,Closed Won,2025-12-18,2025-12-22,2025-12-31,-11800000.0,,,4,1,1,1,1
+LD-0035,2022-09-13,PT Mitra Konstruksi 036,,,scissor lift,,,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0129,2023-02-11,PT Mitra Konstruksi 130,Sumatra,Medan,Boomlift,email,vino jayrasta,Closed Lost,2023-02-17,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0569,2024-10-12,PT Mitra Konstruksi 570,Jawa,Sidoarjo,Telehandler,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0823,2025-10-24,PT Mitra Konstruksi 824,SUMATRA,Palembang,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,27.10.2025,2025-10-30,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0266,03/08/2023,PT Mitra Konstruksi 267,Sumatra,Batam,Crane,WhatsApp,Sari Rahmawati,Closed Lost,2023-08-06,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0190,2023-05-13,PT Mitra Konstruksi 191,Sumatra,Palembang,BOOM LIFT ,email,vino jayrasta,CLOSED LOST,2023-05-15,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0874,2025-12-02,PT Mitra Konstruksi 875,Bali,Denpassar,Skylift,WhatsApp,Andi Pratama,Closed Lost,2025-12-08,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0125,2023-02-24,PT Mitra Konstruksi 126,Jawa,Jakarta,Scissor Lift,WhatsApp,Sari Rahmawati,Closed Won,2023-02-25,2023-03-01,2023-03-14,11800000.0,,,4,1,1,1,1
+LD-0480,2024-06-11,PT Mitra Konstruksi 481,Bali,Denpasar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Won,2024-06-14,2024-06-19,2024-07-01,15500000.0,,,4,1,1,1,1
+LD-0267,2023-09-01,PT Mitra Konstruksi 268,Jawa,Sidoarjo,Boomlift,G-Ads,Vino J.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0250,27-Aug-2023,PT Mitra Konstruksi 251,Sumatra,Palembang,Skylift,Google Ads,Sari Rahmawati,Closed Lost,01-Sep-2023,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0687,2025-03-20,PT Mitra Konstruksi 688,JAWA,Sidoarjo,TELEHANDLER,Google Ads,Rina Wulandari,closed lost,2025-03-26,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0892,2026-01-12,PT Mitra Konstruksi 893,Bali,Gianyar,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,18.01.2026,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0213,2023-06-19,  PT Mitra Konstruksi 214,Sumatra, Batam ,  Scissor Lift,Website,  Sari Rahmawati,Closed Lost,2023-06-24,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0605,2024-12-27,PT Mitra Konstruksi 606,Jawa,Semarang,Boom Lift,Google Ads,Fajar Nugroho,Closed Lost,2024-12-31,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0203,2023-05-26,PT Mitra Konstruksi 204,JAWA,Sidoarjo,scissor lift,WHATSAPP,Rina Wulandari,CLOSED LOST,2023-05-31,2023-06-08,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0167,2023-04-25,PT Mitra Konstruksi 168,Jawa,Surabaya,Scissor Lift,WhatsApp,Budi Santoso,Closed Lost,2023-05-01,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0848,2025-11-09,PT Mitra Konstruksi 849,Jawa,Semarang,Scissor Lift,WhatsApp,Eko Kurniawan,Closed Lost,2025-11-12,2025-11-21,,,Negotiation,Price too high,5,1,1,1,0
+LD-0410,2024-03-17,PT Mitra Konstruksi 411,Bali,Denpasar,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,2024-03-22,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0875,2025-12-01,PT Mitra Konstruksi 876,Jawa,Bandung,BOOM LIFT,google ads,Dewi Lestari,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0362,2024-01-16,PT Mitra Konstruksi 363,Jawa,Surabaya,Crane,Email,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0544,2024-09-05,PT Mitra Konstruksi 545,Jawa,Sidoarjo,Boom Lift,Referral,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0750,2025-06-22,PT Mitra Konstruksi 751,Jawa,Jakarta,Skylift,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0063,2022-11-08,PT Mitra Konstruksi 064,Jawa,Sidoarjo,Scissor Lift,Website,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0996,2026-06-13,PT Mitra Konstruksi 997,Jawa,Sidoarjo,Boom Lift,Referral,Vino Jayrasta,Closed Lost,15/06/2026,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0065,02-Nov-2022,PT Mitra Konstruksi 066,Sumatra,Batam,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,08.11.2022,2022-11-12,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0987,2026-05-12,PT Mitra Konstruksi 988,Jawa,Semarang,Telehandler,WhatsApp,Dewi Lestari,Closed Won,2026-05-17,25/05/2026,2026-06-05,15500000.0,,,4,1,1,1,1
+LD-0265,2023-08-28,PT Mitra Konstruksi 266,Jawa,Gresik,Scissor Lift,Web,Andi Pratama,Closed Lost,2023-08-30,04/09/2023,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0468,2024-05-29,PT Mitra Konstruksi 469,Jawa,Gresik,Telehandler,Google Ads,Andi Pratama,Closed Lost,2024-05-30,2024-06-05,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0349,09/12/2023,PT Mitra Konstruksi 350,Sumatra,Palembang,Crane,WhatsApp,Dewi Lestari,Closed Lost,2023-12-12,2023-12-16,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0207,2023-05-23,PT Mitra Konstruksi 208,Bali,Gianyar,Scissor Lift,Website,Andi Pratama,Closed Lost,2023-05-28,2023-06-03,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0160,2023-03-30,PT Mitra Konstruksi 161,Sumatra,Palembang,Carmix,Google Ads,Andi Pratama,Closed Won,2023-04-03,2023-04-11,2023-04-16,18600000.0,,,4,1,1,1,1
+LD-0845,2025-11-30,PT Mitra Konstruksi 846,Jawa,Sidoarjo,Boom Lift,Website,Vino Jayrasta,Closed Lost,2025-12-01,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0019,20.08.2022,PT Mitra Konstruksi 020,Sumatra,Palembang,Scissor Lift,WhatsApp,Fajar Nugroho,Closed Lost,2022-08-26,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0108,2023-01-04,PT Mitra Konstruksi 109,Bali,Denpasar,Scissor Lift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0437,07-Apr-2024,PT Mitra Konstruksi 438   ,Bali, Gianyar , telehandler ,WEBSITE, Vino Jayrasta ,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0379,2024-02-06,PT Mitra Konstruksi 380,Jawa,Gresik,Tele Handler,G-Ads,andi pratama,Closed Won,2024-02-10,2024-02-17,2024-02-22,24800000.0,,,4,1,1,1,1
+LD-0025,2022-09-18,PT Mitra Konstruksi 026,Jawa,Sidoarjo,Scissor Lift,Google Ads,Eko Kurniawan,Closed Won,2022-09-22,2022-09-28,07.10.2022,,,,4,1,1,1,1
+LD-0393,2024-02-22,PT Mitra Konstruksi 394,Bali,Denpasar,Scissor Lift,WhatsApp,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0298,2023-10-05,PT Mitra Konstruksi 299,Sumatra,Batam,Crane,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0898,2026-01-30,PT Mitra Konstruksi 899,Jawa,Gresik,BOOM LIFT ,referal,budi santoso,Closed Lost,2026-02-03,2026-02-12,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0384,2024-02-27,PT Mitra Konstruksi 385,Sumatra,Palembang,Boom Lift,Google Ads,Budi Santoso,Closed Lost,2024-03-03,2024-03-08,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0405,13/03/2024,PT Mitra Konstruksi 406,Bali,Badung,Boom Lift,Email,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0440,2024-04-22,PT Mitra Konstruksi 441,Sumatra,Batam,Tele Handler,GOOGLE ADS,Fajar Nugroho,CLOSED LOST,2024-04-25,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0588,2024-11-04,PT Mitra Konstruksi 589,Bali,Denpasar,Skylift,WhatsApp,Sari Rahmawati,Closed Lost,2024-11-10,2024-11-18,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0033,2022-09-23,PT Mitra Konstruksi 034,Jawa,Sidoarjo,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,2022-09-29,2022-10-02,,,Negotiation,Price too high,5,1,1,1,0
+LD-0091,2022-12-23,PT Mitra Konstruksi 092,jawa,Bandung,carmix,email,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0307,2023-10-29,PT Mitra Konstruksi 308,JAWA,Jakarta,scissor lift,whatsapp,Dewi Lestari,closed lost,2023-10-30,2023-11-08,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0331,27-Nov-2023,PT  Mitra Konstruksi 332,Bali,  Badung,Crane   ,Web,VINO JAYRASTA,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0323,2023-11-04,PT Mitra Konstruksi 324   ,Sumatra,Batam   ,Scissor  Lift,WhatsApp,Andi  Pratama,Closed Won,2023-11-10,2023-11-12,23-Nov-2023,19100000.0,,,4,1,1,1,1
+LD-0048,2022-10-15,PT Mitra Konstruksi 049,Jawa,Bandung,Boom Lift,WhatsApp,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0400,2024-02-24,PT Mitra Konstruksi 401,Bali,Badung,Telehandler,Google Ads,Eko Kurniawan,Closed Lost,2024-02-26,2024-02-29,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-1025,2026-07-31,PT Mitra Konstruksi 1026,Jawa,Bandung,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,2026-08-02,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0854,2025-11-22,PT Mitra Konstruksi 855,Jawa,Gresik,Boom Lift,Website,Andi Pratama,Closed Lost,2025-11-24,2025-11-26,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0606,2024-12-29,PT Mitra Konstruksi 607,jawa,Semarang,telehandler,website,Rina Wulandari,closed lost,2025-01-01,2025-01-05,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0798,2025-08-12,PT Mitra Konstruksi 799,Jawa,Bandung,Crane,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0818,2025-09-26,PT Mitra Konstruksi 819,Sumatra,Palembang,boom lift,whatsapp,VINO JAYRASTA,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0908,2026-02-01,PT Mitra Konstruksi 909,Jawa,Semarang,Boom Lift,Email,Sari Rahmawati,Closed Lost,2026-02-07,2026-02-10,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0824,2025-10-12,PT Mitra Konstruksi 825,Jawa,Surabaya,boom lift,WA,Vino J.,Lead In,,,,,,,1,1,0,0,0
+LD-0723,08-Apr-2025,PT Mitra Konstruksi 724,Bali,Gianyar,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,2025-04-09,16-Apr-2025,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0854,2025-11-22,PT Mitra Konstruksi 855,Jawa,Gresik,Boom Lift,Website,Andi Pratama,Closed Lost,2025-11-24,2025-11-26,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0478,14-Jun-2024,PT Mitra Konstruksi 479,Sumatra,Batam,Boom Lift,Google Ads,Budi Santoso,Closed Won,2024-06-16,24-Jun-2024,02-Jul-2024,9400000.0,,,4,1,1,1,1
+LD-0650,2025-01-18,PT Mitra Konstruksi 651,Jawa,Semarang,Boom Lift,Referral,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-1009,2026-06-04,PT Mitra Konstruksi 1010,Jawa,Jakarta,carmix,WEBSITE,Rina Wulandari,closed lost,2026-06-09,2026-06-14,,,Negotiation,Price too high,5,1,1,1,0
+LD-0775,2025-07-02,PT Mitra Konstruksi 776,Bali,Denpasar,Telehandler,Referral,Rina Wulandari,Closed Won,2025-07-08,2025-07-17,2025-07-20,-14800000.0,,,4,1,1,1,1
+LD-0869,2025-12-14,PT Mitra Konstruksi 870,Jawa,Jakarta,Boom Lift,Website,Andi Pratama,Closed Lost,15/12/2025,2025-12-20,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0918,2026-02-26,PT Mitra Konstruksi 919,Jawa,Jakarta,Telehandler,Referral,Vino Jayrasta,Closed Lost,2026-02-27,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0044,2022-10-11,PT Mitra Konstruksi 045,Sumatra,Medan,Crane,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0334,2023-11-17,PT Mitra Konstruksi 335,Bali,Gianyar,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,2023-11-21,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0347,26-Dec-2023,PT Mitra Konstruksi 348,Jawa,Bandung,Telehandler,Website,Sari Rahmawati,Closed Lost,01-Jan-2024,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0941,2026-03-18,PT Mitra Konstruksi 942,JAWA,Semarang,Boom Lift,WHATSAPP,Budi Santoso,CLOSED LOST,21.03.2026,2026-03-27,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0235,2023-07-18,PT Mitra Konstruksi 236,Jawa,Semarang,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0760,26-Jun-2025,PT Mitra Konstruksi 761,Sumatra,Medan,Telehandler,whatsapp,Vino Jayrasta,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0192,2023-05-30,PT Mitra Konstruksi 193,JAWA,Jakarta,SKYLIFT,Google Ads,Andi Pratama,Closed Lost,2023-06-03,2023-06-08,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0763,2025-06-28,PT Mitra Konstruksi 764,Sumatra,Medan,Skylift,Email,Andi Pratama,Closed Lost,2025-06-29,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0128,2023-02-09,PT Mitra Konstruksi 129,Jawa,Bandung,Skylift,Website,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1002,2026-06-28,PT Mitra Konstruksi 1003,Jawa,Bandung,Boom Lift,WhatsApp,Dewi Lestari,Closed Lost,2026-07-04,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0961,2026-04-29,PT Mitra Konstruksi 962,Jawa,Bandung,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,2026-05-03,2026-05-06,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0690,2025-03-28,PT Mitra Konstruksi 691,Jawa,Gresik,Crane,Whats App,Fajar Nugroho,Closed Lost,2025-04-03,2025-04-07,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0134,2023-02-06,PT Mitra Konstruksi 135,jawa,Gresik,Boom Lift,Whatsapp,Vino Jayrasta,CLOSED LOST,2023-02-10,2023-02-16,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0501,2024-07-23,PT Mitra Konstruksi 502,Jawa,BANDUNG,Skylift,Google Ads,Vino Jayrasta,Closed Won,2024-07-26,2024-07-29,2024-08-07,29500000.0,,,4,1,1,1,1
+LD-0792,2025-08-30,PT Mitra Konstruksi 793,Jawa,Bandung,Telehandler,WA,Budi Santoso,Closed Won,2025-08-31,07.09.2025,2025-09-11,34353.0,,,4,1,1,1,1
+LD-0315,2023-11-04,PT Mitra Konstruksi 316,Sumatra,Medan,TELEHANDLER,REFERRAL,Eko Kurniawan,CLOSED LOST,06-Nov-2023,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0974,2026-05-18, PT Mitra Konstruksi 975 ,Sumatra,Palembang,Boom  Lift,Google Ads, Andi Pratama ,Closed Lost,2026-05-20,2026-05-22,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0657,2025-01-14,PT Mitra Konstruksi 658,Bali,Denpasar,Boom Lift,WhatsApp,Dewi Lestari,Closed Won,2025-01-16,2025-01-18,2025-01-27,26900000.0,,,4,1,1,1,1
+LD-0431,23.04.2024,PT Mitra Konstruksi 432,jawa,Sidoarjo,telehandler,whatsapp,Andi Pratama,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0430,2024-04-14,PT Mitra Konstruksi 431,Jawa,Bandung,Skylift,Website,Fajar Nugroho,Closed Lost,17/04/2024,2024-04-23,,,Negotiation,Price too high,5,1,1,1,0
+LD-1015,2026-07-15,  PT Mitra Konstruksi 1016,Sumatra, Palembang ,Tele Handler,web site,Andi P,Closed Lost,2026-07-20,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0314,2023-11-27,PT Mitra Konstruksi 315,Sumatra,Medan,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2023-12-03,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0633,28-Jan-2025,PT Mitra Konstruksi 634,Jawa,Semarang,Carmix,google ads,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0576,2024-10-30, PT Mitra Konstruksi 577 ,Jawa,Gresik   ,Scissor Lift   ,E-mail,Budi  Santoso,Closed Lost,2024-11-03,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0029,2022-09-14,PT Mitra Konstruksi 030,Sumatra,Batam,Carmix,whatsapp,Andi P,Closed Won,2022-09-15,2022-09-24,2022-10-05,,,,4,1,1,1,1
+LD-0778,2025-07-12,PT Mitra Konstruksi 779,Bali,Gianyar,Crane,Email,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0158,2023-03-24,PT Mitra Konstruksi 159,Jawa,Semarang,Boomlift,WA,andi pratama,Closed Lost,29-Mar-2023,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0491,2024-06-13,PT Mitra Konstruksi 492,Sumatra,Medan,Skylift,Referral,Vino Jayrasta,Closed Lost,2024-06-19,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0547,2024-09-17,PT Mitra Konstruksi 548,Jawa,Gresik,Boom Lift,WhatsApp,Dewi Lestari,Closed Lost,2024-09-18,2024-09-25,,,Negotiation,Price too high,5,1,1,1,0
+LD-0689,2025-03-15,PT Mitra Konstruksi 690,Sumatra,Batam,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2025-03-17,2025-03-21,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0132,22.02.2023,PT Mitra Konstruksi 133,Sumatra,Palembang,Telehandler,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0781,2025-07-16,PT Mitra Konstruksi 782,Jawa,Surabya,Crane,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0332,2023-11-02,PT Mitra Konstruksi 333,Bali,Gianyar,Scissor Lift,Referral,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0619,2024-12-25,PT Mitra Konstruksi 620,Jawa,Surabya,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2024-12-31,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0027,2022-09-22,PT Mitra Konstruksi 028,Sumatra,Batam,Crane,Google Ads,Budi Santoso,Closed Won,2022-09-27,2022-10-06,2022-10-10,27500000.0,,,4,1,1,1,1
+LD-0429,2024-04-22,PT Mitra Konstruksi 430,Jawa,Bandung,Crane,WhatsApp,Vino Jayrasta,Closed Won,2024-04-27,29.04.2024,2024-05-06,28600000.0,,,4,1,1,1,1
+LD-0638,2025-01-03,PT Mitra Konstruksi 639,Bali,Gianyar,Boom Lift,Google Ads,Vino Jayrasta,Closed Lost,2025-01-05,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0562,2024-10-11,PT Mitra Konstruksi 563,Jawa,Gresik,Boom Lift,Website,Budi Santoso,Closed Won,2024-10-16,2024-10-19,2024-10-25,10500000.0,,,4,1,1,1,1
+LD-0919,2026-02-11,PT Mitra Konstruksi 920,jawa,Bandung,SCISSOR LIFT,Referral,Budi Santoso,Closed Won,2026-02-16,2026-02-19,26/02/2026,6900000.0,,,4,1,1,1,1
+LD-0873,2025-12-16,PT Mitra Konstruksi 874,Sumatra,Batam,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0995,2026-06-28,PT Mitra Konstruksi 996,Jawa,Semarrang,Crane,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0396,2024-02-12,PT Mitra Konstruksi 397,Sumatra,Palembang,TELEHANDLER,WHATSAPP,Rina Wulandari,Closed Lost,2024-02-16,2024-02-20,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0536,2024-09-24,PT Mitra Konstruksi 537,Jawa,Surabaya,Carmix,WhatsApp,Budi Santoso,Closed Won,2024-09-30,2024-10-08,2024-10-15,16000000.0,,,4,1,1,1,1
+LD-0676,2025-02-13,PT Mitra Konstruksi 677,Sumatra,Batam,Carmix,Referral,Fajar Nugroho,Closed Won,2025-02-17,2025-02-20,23.02.2025,37500000.0,,,4,1,1,1,1
+LD-0855,2025-11-25,PT Mitra Konstruksi 856,Sumatra,Batam,Skylift,WhatsApp,Andi Pratama,Closed Lost,2025-11-26,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0566,25-Oct-2024,PT Mitra Konstruksi 567,Bali,Denpasar,Scissor Lift,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0705,2025-04-08,PT  Mitra Konstruksi 706,Jawa, Jakarta ,  SKYLIFT,Email,  Budi Santoso,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0306,2023-10-08,PT Mitra Konstruksi 307,Bali,Denpasar,Boom Lift,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0479,2024-06-17,PT Mitra Konstruksi 480,Sumatra,Medan,Boom Lift,WhatsApp,Budi Santoso,Closed Won,2024-06-20,2024-06-22,2024-07-05,19900000.0,,,4,1,1,1,1
+LD-0975,2026-05-23,PT Mitra Konstruksi 976,Jawa,Bandung,Carmix,email,RINA WULANDARI,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0655,2025-01-11,PT  Mitra Konstruksi 656,Jawa,Sidoarjo,Sky Lift,whatsapp,Rina W.,Closed Lost,2025-01-16,2025-01-18,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0896,2026-01-08,PT Mitra Konstruksi 897,jawa,Sidoarjo,SCISSOR LIFT,email,andi pratama,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0521,2024-08-23,PT Mitra Konstruksi 522,Jawa,Gresik,Skylift,Google Ads,Rina Wulandari,Closed Lost,2024-08-26,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0418,2024-03-14,PT Mitra Konstruksi 419,Bali,Gianyar,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,2024-03-15,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0900,31/01/2026,PT Mitra Konstruksi 901,jawa,Jakarta,TELEHANDLER,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0056,2022-10-03,PT Mitra Konstruksi 057,Sumatra,Medan,Telehandler,Referral,Vino Jayrasta,Closed Won,2022-10-07,2022-10-10,2022-10-21,16600000.0,,,4,1,1,1,1
+LD-0052,12/10/2022,PT Mitra Konstruksi 053,Jawa,Gresik,boom lift,WA,Rina W.,Closed Lost,2022-10-14,2022-10-17,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0612,2024-12-10,PT Mitra Konstruksi 613,Jawa,Surabya,Boom Lift,Website,Dewi Lestari,Closed Lost,2024-12-15,2024-12-24,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0942,2026-03-17,PT Mitra Konstruksi 943,Jawa,Jakarta,Skylift,Website,Andi Pratama,Closed Lost,2026-03-23,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0531,2024-08-31,PT Mitra Konstruksi 532,Jawa,Jakarta,Scissor Lift,WhatsApp,Rina Wulandari,Closed Won,2024-09-04,2024-09-12,19/09/2024,15900000.0,,,4,1,1,1,1
+LD-0142,2023-02-15,PT Mitra Konstruksi 143,Bali,Gianyar,Skylift,Email,Fajar Nugroho,Closed Lost,2023-02-21,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0794,2025-08-22,PT Mitra Konstruksi 795,Jawa,Surabaya,Scissor Lift,Google Ads,Rina Wulandari,Closed Lost,2025-08-24,02-Sep-2025,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0255,2023-08-02,PT Mitra Konstruksi 256,Jawa,Gresik,Crane,Google Ads,Dewi Lestari,Closed Lost,2023-08-03,2023-08-09,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0517,2024-08-13,PT Mitra Konstruksi 518,Sumatra,Palembang,Crane,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0413,2024-03-11,PT Mitra Konstruksi 414,Jawa,Surabaya,Scissor Lift,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0357,2024-01-11,PT Mitra Konstruksi 358   ,Jawa,Jakarta   ,Boom  Lift,WhatsApp, Dewi Lestari ,Closed Won,2024-01-12,2024-01-19,2024-01-25,30600000.0,,,4,1,1,1,1
+LD-0247,2023-08-14,PT Mitra Konstruksi 248,Sumatra,Batam,Boom Lift,Website,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0291,2023-10-31,PT Mitra Konstruksi 292,Jawa,Jakarta,Scissor Lift,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0032,2022-09-26,PT Mitra Konstruksi 033,Jawa,Jakarta,Crane,Google Ads,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0501,2024-07-23,PT Mitra Konstruksi 502,Jawa,Bandung,Skylift,Google Ads,Vino Jayrasta,Closed Won,2024-07-26,2024-07-29,2024-08-07,29500000.0,,,4,1,1,1,1
+LD-0280,2023-09-07,PT Mitra Konstruksi 281,Sumatra,Batam,Boom Lift,Email,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0476,2024-06-17,PT Mitra Konstruksi 477,Bali,Badung,ScissorLift,Refferal,Andi P,Closed Won,21-Jun-2024,2024-06-23,2024-06-30,13000000.0,,,4,1,1,1,1
+LD-0917,2026-02-17,PT Mitra Konstruksi 918,Jawa,Semarang,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,2026-02-20,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0560,2024-10-19,PT Mitra Konstruksi 561,Jawa,Bandung,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2024-10-23,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0304,2023-10-10,PT Mitra Konstruksi 305,Bali,Badung,Scissor Lift,WhatsApp,Rina Wulandari,Closed Lost,2023-10-11,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0590,2024-11-30,PT Mitra Konstruksi 591,Jawa,Jakarta,Crane,website,SARI RAHMAWATI,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0330,2023-11-30,PT Mitra Konstruksi 331,JAWA,Gresik,SKYLIFT,google ads,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0907,2026-02-10,PT Mitra Konstruksi 908,Jawa,Gresik,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0999,2026-06-25,PT Mitra Konstruksi 1000,Jawa,Semarang,Crane,Website,Budi Santoso,Closed Lost,2026-07-01,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0274,2023-09-01,PT Mitra Konstruksi 275,Jawa,Bandung,Scissor Lift,Google Ads,Rina Wulandari,Closed Lost,2023-09-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0456,2024-05-13,PT  Mitra Konstruksi 457,Jawa,Gresik,SKYLIFT,google ads, Budi Santoso ,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0467,2024-05-27,PT Mitra Konstruksi 468,Jawa,Surabaya,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0906,2026-02-01,PT Mitra Konstruksi 907,Bali,Denpasar,ScissorLift,Whats App,budi santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0601,2024-11-17,PT Mitra Konstruksi 602   ,Jawa,Sidoarjo   , Scissor Lift ,Website,Dewi  Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0354,2024-01-14,PT Mitra Konstruksi 355,Jawa,Semarang,Scissor Lift,Referral,Budi Santoso,Closed Lost,15.01.2024,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-1011,2026-07-01,PT Mitra Konstruksi 1012,Sumatra,Palembang,Boom Lift,WhatsApp,Fajar Nugroho,Closed Won,03/07/2026,2026-07-07,2026-07-12,11800000.0,,,4,1,1,1,1
+LD-0073,2022-11-14,PT Mitra Konstruksi 074,Bali,Denpassar,TELEHANDLER,WHATSAPP,Rina Wulandari,closed won,2022-11-19,2022-11-27,2022-12-05,24000000.0,,,4,1,1,1,1
+LD-0581,2024-10-27,PT Mitra Konstruksi 582   ,Jawa,  Bandung,  Carmix,Email,Fajar Nugroho   ,Closed Won,2024-10-31,2024-11-06,2024-11-08,15300000.0,,,4,1,1,1,1
+LD-0220,2023-06-17,PT Mitra Konstruksi 221,Jawa,Bandung,Crane,Google Ads,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0455,2024-05-15,PT Mitra Konstruksi 456,Jawa,Sidoarjo,Crane,G-Ads,budi santoso,Closed Lost,2024-05-18,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0054,2022-10-06,PT Mitra Konstruksi 055,Sumatra,Medan,Carmix,WhatsApp,Sari Rahmawati,Closed Lost,2022-10-09,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0551,2024-09-23,PT Mitra Konstruksi 552,Jawa,Sidoarjo,ScissorLift,whatsapp,Vino J.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0793,2025-08-17,PT Mitra Konstruksi 794,Bali,Denpassar,Scissor Lift,Email,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0911,2026-02-16,PT Mitra Konstruksi 912,,,Skylift,,,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0313,2023-11-17,PT Mitra Konstruksi 314,Sumatra,Medan,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,2023-11-21,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0214,2023-06-07, PT Mitra Konstruksi 215 ,Jawa,Semarang, Boom Lift ,WhatsApp,Rina Wulandari   ,Closed Won,2023-06-11,15.06.2023,2023-06-26,33600000.0,,,4,1,1,1,1
+LD-0904,2026-01-31,PT Mitra Konstruksi 905,Bali,Denpasar,Crane,WhatsApp,Vino Jayrasta,Closed Won,2026-02-06,2026-02-14,2026-02-19,62900000.0,,,4,1,1,1,1
+LD-0990,2026-06-01,PT Mitra Konstruksi 991,Bali,Denpasar,Crane,WhatsApp,Rina Wulandari,Closed Won,2026-06-07,2026-06-16,2026-06-23,65300000.0,,,4,1,1,1,1
+LD-0866,2025-12-31,PT Mitra Konstruksi 867,Sumatra,Medan,Scissor Lift,Google Ads,Andi Pratama,Closed Lost,2026-01-05,2026-01-12,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0972,2026-05-26,PT Mitra Konstruksi 973   ,Jawa, Gresik , Crane ,Referral,  Budi Santoso,Closed Lost,2026-05-27,2026-06-05,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0928,2026-03-08,PT Mitra Konstruksi 929,Jawa,Bandung,Boom Lift,WhatsApp,Fajar Nugroho,Closed Lost,2026-03-12,2026-03-15,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0376,2024-02-04,PT Mitra Konstruksi 377,Sumatra,Medan,Skylift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0815,2025-09-14,PT Mitra Konstruksi 816,Sumatra,Batam,Skylift,Website,Fajar Nugroho,Closed Lost,2025-09-16,2025-09-21,,,Negotiation,Price too high,5,1,1,1,0
+LD-0944,2026-04-26,PT  Mitra Konstruksi 945,Jawa, Bandung , Boom Lift ,WhatsApp, Andi Pratama ,Closed Lost,2026-05-02,2026-05-07,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0454,2024-05-21,PT Mitra Konstruksi 455   ,Jawa, Surabaya ,  Boom Lift,WhatsApp,Budi Santoso   ,Closed Lost,2024-05-25,2024-05-27,,,Negotiation,Price too high,5,1,1,1,0
+LD-0630,2025-01-21,PT Mitra Konstruksi 631,Bali,Badung,Boomlift,referal,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0977,2026-05-28,PT Mitra Konstruksi 978,Jawa,Surabya,Scissor Lift,WhatsApp,Sari Rahmawati,Closed Lost,2026-05-29,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-1005,2026-06-29,PT Mitra Konstruksi 1006,Jawa,Sidoarjo,Skylift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0535,2024-09-21,PT Mitra Konstruksi 536,Jawa,Surabaya,Boom Lift,Google Ads,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0704,2025-04-11,PT Mitra Konstruksi 705,Jawa,Jakarta,Skylift,WhatsApp,Sari Rahmawati,Closed Lost,2025-04-12,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0938,2026-03-08,PT Mitra Konstruksi 939,jawa,Jakarta,Scissor Lift,referral,Fajar Nugroho,CLOSED WON,2026-03-09,2026-03-16,2026-03-26,12400000.0,,,4,1,1,1,1
+LD-0589,2024-11-11,PT Mitra Konstruksi 590,Jawa,Surabaya,Crane,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0668,2025-02-19,PT Mitra Konstruksi 669,Jawa,Sidoarjo,Skylift,Email,Vino Jayrasta,Closed Lost,2025-02-25,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0545,2024-09-15,PT Mitra Konstruksi 546,Bali,Denpasar,Boom Lift,Referral,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0182,2023-04-30,PT Mitra Konstruksi 183,Jawa,Jakarta,CARMIX,whatsapp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0408,2024-03-13,PT Mitra Konstruksi 409,Bali,Badung,Crane,Google Ads,Fajar Nugroho,Closed Won,2024-03-14,2024-03-20,2024-03-31,26600000.0,,,4,1,1,1,1
+LD-0031,2022-09-09,PT Mitra Konstruksi 032,Bali,Gianyar,boom lift,email,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0929,2026-03-05,PT Mitra Konstruksi 930   ,Bali,Gianyar   , BOOM LIFT ,Email, Budi Santoso ,CLOSED WON,2026-03-10,2026-03-19,2026-03-28,10400000.0,,,4,1,1,1,1
+LD-0411,2024-03-30,PT Mitra Konstruksi 412,Jawa,Gresik,Boomlift,WA,andi pratama,Closed Lost,2024-04-03,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0512,2024-07-02,PT Mitra Konstruksi 513,Bali,Gianyar,Skylift,Email,Vino Jayrasta,Closed Lost,2024-07-04,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0832,2025-10-17,PT Mitra Konstruksi 833,Sumatra,Palembang,Skylift,WhatsApp,Dewi Lestari,Closed Lost,2025-10-23,2025-10-29,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0860,01-Dec-2025,PT Mitra Konstruksi 861,Bali,Denpasar,Skylift,Google Ads,Dewi Lestari,Closed Won,2025-12-06,2025-12-13,2025-12-23,10800000.0,,,4,1,1,1,1
+LD-0646,2025-01-07,PT Mitra Konstruksi 647,Jawa,Gresik,Crane,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0737,2025-05-23,PT Mitra Konstruksi 738,Jawa,Surabaya,Boom Lift,Email,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0549,2024-09-10,PT Mitra Konstruksi 550,Bali,Gianyar,Boomlift,whatsapp,budi santoso,Closed Lost,2024-09-11,2024-09-17,,,Negotiation,Price too high,5,1,1,1,0
+LD-0351,2023-12-10,PT Mitra Konstruksi 352,Bali,Denpasar,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0831,2025-10-30,PT Mitra Konstruksi 832,Jawa,Bandung,Boom Lift,Google Ads,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0755,2025-06-22,PT Mitra Konstruksi 756,Jawa,Surabaya,Skylift,Website,Vino Jayrasta,Closed Lost,2025-06-24,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0852,2025-11-20,PT Mitra Konstruksi 853,Bali,Gianyar,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2025-11-21,30/11/2025,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0523,2024-08-31,PT Mitra Konstruksi 524,Jawa,Jakarta,Crane,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0677,2025-02-28,PT Mitra Konstruksi 678,Jawa,Sidoarjo,Skylift,WhatsApp,Andi Pratama,Closed Lost,2025-03-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0210,2023-06-04,PT Mitra Konstruksi 211,Jawa,Sidoarjo,Skylift,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0233,2023-07-27, PT Mitra Konstruksi 234 ,Jawa,Gresik,  Scissor Lift,WhatsApp,Vino Jayrasta   ,Closed Lost,2023-07-31,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0175,2023-04-04,PT Mitra Konstruksi 176,Jawa,Sidoarjo,Boom Lift,WhatsApp,Sari Rahmawati,Closed Won,2023-04-09,2023-04-18,2023-04-22,31700000.0,,,4,1,1,1,1
+LD-0465,2024-05-02, PT Mitra Konstruksi 466 ,JAWA,, scissor lift ,,,closed won,2024-05-03,2024-05-07,2024-05-11,10000000.0,,,4,1,1,1,1
+LD-0526,2024-08-12,PT Mitra Konstruksi 527,Jawa,Bandung,Scissor Lift,Google Ads,Sari Rahmawati,Closed Lost,17/08/2024,2024-08-24,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0702,2025-03-18,PT Mitra Konstruksi 703,Jawa,,Crane,,Vino Jayrasta,Closed Won,2025-03-21,2025-03-29,2025-04-02,58800000.0,,,4,1,1,1,1
+LD-0805,2025-08-21,PT Mitra Konstruksi 806,Sumatra,Batam,Crane,Google Ads,Rina Wulandari,Closed Lost,2025-08-26,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0568,2024-10-12,PT Mitra Konstruksi 569   ,Jawa,Jakarta   ,  TELEHANDLER,GOOGLE ADS,Andi Pratama   ,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0642,2025-01-13,PT Mitra Konstruksi 643,Jawa,Gresik,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Won,2025-01-15,2025-01-21,2025-01-28,18500000.0,,,4,1,1,1,1
+LD-0698,2025-03-14,PT Mitra Konstruksi 699,Jawa,Sidoarjo,Telehandler,Website,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0950,2026-04-26,PT Mitra Konstruksi 951,Jawa,Surabaya,Boom Lift,Website,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0116,2023-01-31,PT Mitra Konstruksi 117,Jawa,Jakarta,Boom Lift,WhatsApp,Dewi Lestari,Closed Lost,2023-02-04,2023-02-13,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0649,2025-01-29,PT Mitra Konstruksi 650,Bali,Badung,Scissor Lift,WhatsApp,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0751,2025-06-10,PT Mitra Konstruksi 752,Sumatra,Palembang,Crane,Website,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1027,2026-07-08,PT Mitra Konstruksi 1028,Jawa,Gresik,Crane,Email,Vino Jayrasta,Closed Lost,2026-07-13,2026-07-20,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0611,05/12/2024,PT Mitra Konstruksi 612,Jawa,Gresik,Telehandler,Website,Vino Jayrasta,Closed Won,10/12/2024,2024-12-18,21/12/2024,12700000.0,,,4,1,1,1,1
+LD-0835,2025-10-12,PT Mitra Konstruksi 836,jawa,Sidoarjo,SKYLIFT,Whatsapp,Rina Wulandari,CLOSED LOST,2025-10-15,2025-10-19,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0532,2024-08-16,PT Mitra Konstruksi 533,Jawa,Sidoarjo,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0799,2025-08-21,PT Mitra Konstruksi 800,Sumatra,,Skylift,,Vino Jayrasta,Closed Won,2025-08-23,2025-08-29,2025-09-04,28100000.0,,,4,1,1,1,1
+LD-0734,2025-05-29,PT Mitra Konstruksi 735,jawa,Surabaya,BOOM LIFT,Google Ads,Budi Santoso,CLOSED LOST,2025-06-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0218,2023-06-06,PT Mitra Konstruksi 219,Sumatra,Batam,Crane,Referral,Andi Pratama,Closed Lost,2023-06-08,14.06.2023,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0146,2023-03-08,PT Mitra Konstruksi 147,Bali,Badung,Crane,Google Adwords,Rina W.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0285,2023-09-09,  PT Mitra Konstruksi 286,Bali,Gianyar   ,Skylift   ,WhatsApp,Rina  Wulandari,Closed Won,2023-09-13,20/09/2023,2023-09-29,16900000.0,,,4,1,1,1,1
+LD-0148,2023-03-13,PT Mitra Konstruksi 149,Bali,Gianyar,Carmix,whatsapp,Vino J.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0717,2025-04-23,PT MITRA KONSTRUKSI 718,Jawa,Semarang,Skylift,Website,Dewi Lestari,Closed Lost,2025-04-27,2025-05-04,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0756,18.06.2025,PT Mitra Konstruksi 757,jawa,Sidoarjo,scissor lift,Whatsapp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0791,2025-08-19,PT Mitra Konstruksi 792,Bali,Badung,BOOM LIFT ,google ads,Rina W.,Lead In,,,,,,,1,1,0,0,0
+LD-0066,2022-11-25,PT Mitra Konstruksi 067,Jawa,Jakarta,boom lift,GOOGLE ADS,Dewi Lestari,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0262,2023-08-12,PT Mitra Konstruksi 263,Jawa,Surabaya,Telehandler,Website,Dewi Lestari,Closed Lost,2023-08-15,2023-08-22,,,Negotiation,Price too high,5,1,1,1,0
+LD-0272,2023-09-16,PT Mitra Konstruksi 273,Bali,Denpasar,Boom Lift,Google Ads,Budi Santoso,Lead In,,,,,,,1,1,0,0,0
+LD-0684,2025-02-09,PT Mitra Konstruksi 685,Bali,Denpasar,Boom Lift,Google Ads,Andi Pratama,Lead In,,,,,,,1,1,0,0,0
+LD-0899,2026-01-25,PT Mitra Konstruksi 900,Bali,Denpasar,Skylift,WhatsApp,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0234,2023-07-21,PT Mitra Konstruksi 235,Jawa,Surabaya,Scissor Lift,Referral,Budi Santoso,Closed Won,2023-07-25,28/07/2023,2023-08-01,16400000.0,,,4,1,1,1,1
+LD-0660,2025-02-23,PT Mitra Konstruksi 661,Jawa,Sidoarjo,Boom Lift,Google Ads,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0319,2023-11-23,PT Mitra Konstruksi 320   ,Sumatra, Batam ,Scissor Lift   ,Google Ads,Rina Wulandari   ,Closed Lost,2023-11-27,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0945,2026-04-23,PT Mitra Konstruksi 946,Bali,Badung,Boom Lift,Website,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0016,2022-08-17, PT Mitra Konstruksi 017 ,Jawa,Sidoarjo, Carmix ,WhatsApp,Budi  Santoso,Closed Lost,2022-08-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0777,2025-07-21,PT Mitra Konstruksi 778,Jawa,Gresik,Telehandler,Google Ads,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0473,06-Jun-2024,PT Mitra Konstruksi 474,Bali,Denpasar,Carmix,G-Ads,Vino J.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0585,2024-11-08,PT  Mitra Konstruksi 586,jawa,Jakarta, boom lift ,Google Ads,  Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0297,03/10/2023,PT Mitra Konstruksi 298,Jawa,Sidoarjo,Skylift,Website,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0795,2025-08-08,PT Mitra Konstruksi 796,Jawa,Gresik,Telehandler,Google Ads,Vino Jayrasta,Closed Lost,2025-08-14,2025-08-17,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0277,11.09.2023,PT Mitra Konstruksi 278,Jawa,Bandung,Crane,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0377,2024-02-08,PT Mitra Konstruksi 378,Jawa,Surabaya,boom lift,whatsapp,Rina W.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0046,2022-10-09,PT Mitra Konstruksi 047,Jawa,Surabaya,Scissor Lift,Email,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0685,2025-02-13,PT Mitra Konstruksi 686,Bali,Gianyar,Scissor Lift,Email,Dewi Lestari,Closed Lost,2025-02-15,2025-02-19,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0546,18/09/2024,PT Mitra Konstruksi 547,Sumatra,Medan,Scissor Lift,WhatsApp,Dewi Lestari,Closed Lost,2024-09-20,2024-09-25,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0686,2025-03-17,PT Mitra Konstruksi 687,Jawa,JAKARTA,Boom Lift,WhatsApp,Eko Kurniawan,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0528,2024-08-16,PT Mitra Konstruksi 529,Sumatra,Medan,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0452,2024-05-10,PT Mitra Konstruksi 453,Jawa,Jakarta,Carmix,Website,Dewi Lestari,Closed Lost,2024-05-15,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0466,2024-05-30,PT Mitra Konstruksi 467   ,Jawa,  Bandung,Carmix,Google Ads,Budi  Santoso,Closed Lost,2024-05-31,2024-06-03,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0991,2026-06-10,PT Mitra Konstruksi 992,Jawa,Bandung,Scissor Lift,Email,Budi Santoso,Closed Lost,2026-06-13,2026-06-16,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0786,2025-07-23,PT Mitra Konstruksi 787,Sumatra,Medan,Scissor  Lift,whatsapp,VINO JAYRASTA,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0506,2024-07-25,PT Mitra Konstruksi 507,Jawa,Bandung,Crane,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0159,2023-03-23,PT Mitra Konstruksi 160,Jawa,Bandung,Telehandler,WhatsApp,Budi Santoso,Closed Lost,2023-03-25,2023-03-28,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0808,2025-09-12,PT Mitra Konstruksi 809,Jawa,Bandung,Boom Lift,Google Ads,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0360,2024-01-01,PT Mitra Konstruksi 361,Jawa,Bandung,ScissorLift,G-Ads,budi santoso,Closed Lost,2024-01-07,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0427,2024-04-08,PT Mitra Konstruksi 428,JAWA,Bandung,boom lift,Google Ads,Fajar Nugroho,closed won,2024-04-10,2024-04-18,2024-04-23,24300000.0,,,4,1,1,1,1
+LD-0915,2026-02-06,PT Mitra Konstruksi 916,Jawa,Bandung,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,07-Feb-2026,2026-02-10,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0018,2022-08-26,PT Mitra Konstruksi 019,SUMATRA,Batam,SKYLIFT,WEBSITE,Andi Pratama,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0388,2024-02-23,PT Mitra Konstruksi 389,Bali,Gianyar,Boom Lift,referal,Eko Kurniawan,Closed Lost,2024-02-24,2024-03-02,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0179,2023-04-28,PT Mitra Konstruksi 180,Jawa,Bandung,Boom Lift,Google Ads,Andi Pratama,Closed Lost,2023-05-01,2023-05-07,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-1001,2026-06-17,PT Mitra Konstruksi 1002,Bali,Denpasar,Boom Lift,Google Ads,Fajar Nugroho,Closed Won,2026-06-18,2026-06-25,2026-07-03,30900000.0,,,4,1,1,1,1
+LD-0163,2023-03-25,PT Mitra Konstruksi 164,Bali,Denpasar,Skylift,Referral,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0626,2024-12-03,PT Mitra Konstruksi 627,Bali,Gianyar,Crane,Website,Budi Santoso,Closed Lost,2024-12-05,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0096,2022-12-24,PT Mitra Konstruksi 097,Sumatra,Palembang,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2022-12-26,2022-12-30,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0097,2022-12-22,PT Mitra Konstruksi 098,Jawa,Sidoarjo,Scissor Lift,Website,Vino Jayrasta,Closed Lost,25-Dec-2022,2022-12-28,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0843,2025-11-05,PT Mitra Konstruksi 844,Sumatra,Medan,Skylift,Google Ads,Fajar Nugroho,Closed Lost,2025-11-10,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0731,2025-05-31,PT Mitra Konstruksi 732,Sumatra,Palembang,crane,WEBSITE,Eko Kurniawan,Closed Lost,2025-06-04,07-Jun-2025,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0195,2023-05-21,PT  Mitra Konstruksi 196,JAWA,Bandung   ,  CARMIX,GOOGLE ADS, Vino Jayrasta ,closed lost,2023-05-26,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0661,2025-02-01,PT Mitra Konstruksi 662,Jawa,Sidoarjo,Telehandler,Email,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0166,2023-03-02,PT Mitra Konstruksi 167,BALI,Denpasar,SCISSOR LIFT,EMAIL,Rina Wulandari,CLOSED WON,2023-03-03,05.03.2023,2023-03-13,9000000.0,,,4,1,1,1,1
+LD-0224,2023-06-18,PT Mitra Konstruksi 225,Sumatra,Medan,Scissor Lift,WhatsApp,Fajar Nugroho,Closed Lost,2023-06-20,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0955,2026-04-20,PT Mitra Konstruksi 956,JAWA,Bandung,BOOM LIFT,whatsapp,Sari Rahmawati,Closed Lost,2026-04-26,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0383,2024-02-08,PT Mitra Konstruksi 384,JAWA,Semarang,crane,Referral,Fajar Nugroho,Lead In,,,,,,,1,1,0,0,0
+LD-0738,2025-05-20,  PT Mitra Konstruksi 739,Jawa, Gresik ,Telehandler,Referral,Dewi  Lestari,Closed Lost,2025-05-22,2025-05-24,,,Negotiation,Price too high,5,1,1,1,0
+LD-0193,2023-05-31,PT  Mitra Konstruksi 194,Bali,Gianyar, Scissor Lift ,WhatsApp,Rina Wulandari   ,Closed Lost,2023-06-06,2023-06-12,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0094,2022-12-22,PT Mitra Konstruksi 095,Jawa,Jakarta,Scissor Lift,Referral,Rina Wulandari,Closed Lost,2022-12-28,2022-12-31,,,Negotiation,Price too high,5,1,1,1,0
+LD-0109,2023-01-03,PT Mitra Konstruksi 110,sumatra,Batam,SKYLIFT,REFERRAL,Dewi Lestari,closed lost,2023-01-07,2023-01-11,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0998,2026-06-04,PT Mitra Konstruksi 999,Jawa,Gresik,Carmix,Google Ads,Vino Jayrasta,Closed Won,2026-06-05,2026-06-07,2026-06-15,32300000.0,,,4,1,1,1,1
+LD-0729,2025-05-20,PT Mitra Konstruksi 730,Jawa,Surabaya,Boom Lift,Google Ads,Eko Kurniawan,Closed Lost,2025-05-22,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0883,2025-12-25,PT Mitra Konstruksi 884,Jawa,Jakarta,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2025-12-28,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0916,2026-02-16,PT Mitra Konstruksi 917,Jawa,Gresik,Boom Lift,Website,Rina Wulandari,Closed Lost,2026-02-19,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0732,05-May-2025,PT Mitra Konstruksi 733,SUMATRA,Batam,Boom Lift,Whatsapp,Sari Rahmawati,CLOSED LOST,2025-05-08,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0773,2025-07-13,PT Mitra Konstruksi 774,Jawa,Bandung,Crane,WhatsApp,Andi Pratama,Closed Lost,2025-07-15,2025-07-22,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0748,2025-06-04,PT Mitra Konstruksi 749,Jawa,Semarang,Scissor Lift,Website,Andi Pratama,Closed Lost,2025-06-08,2025-06-17,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0283,2023-09-24,PT Mitra Konstruksi 284,Jawa,Semarang,Boom Lift,Referral,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0980,2026-05-29,PT Mitra Konstruksi 981,Jawa,Surabaya,Crane,web site,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0797,2025-08-27,PT Mitra Konstruksi 798,Jawa,,Boomlift,,Sari R.,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0971,2026-05-15,PT Mitra Konstruksi 972,Jawa,Bandung,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,20-May-2026,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0645,2025-01-09, PT Mitra Konstruksi 646 ,Jawa,Surabaya   ,Boom Lift   ,Website,Dewi  Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0592,2024-11-19,PT Mitra Konstruksi 593,Jawa,Sidoarjo,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0346,2023-12-27, PT Mitra Konstruksi 347 ,bali, Denpasar , Skylift ,google ads,  Budi Santoso,closed lost,2023-12-29,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0960,2026-04-01,PT Mitra Konstruksi 961,Jawa,Bandung,Boom Lift,Email,Budi Santoso,Closed Lost,2026-04-05,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0219,2023-06-06,PT Mitra Konstruksi 220,Jawa,Bandung,Crane,WhatsApp,Sari Rahmawati,Closed Lost,2023-06-11,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-1000,06.06.2026, PT Mitra Konstruksi 1001 ,Sumatra,PALEMBANG   , Boom Lift ,WhatsApp,  Fajar Nugroho,Closed Lost,2026-06-12,14.06.2026,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0329,2023-11-16,PT Mitra Konstruksi 330,Bali,Denpassar,Scissor Lift,WA,Rina Wulandari,Closed Lost,2023-11-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0667,2025-02-03,PT Mitra Konstruksi 668,Bali,Gianyar,Scissor Lift,WhatsApp,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0841,2025-11-18,PT Mitra Konstruksi 842,jawa,Surabaya,SCISSOR LIFT,google ads,Rina Wulandari,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0724,2025-04-07,PT Mitra Konstruksi 725,Jawa,Semarang,Scissor Lift,Referral,Vino Jayrasta,Closed Won,2025-04-10,2025-04-15,2025-04-28,15700000.0,,,4,1,1,1,1
+LD-0077,2022-11-23,PT Mitra Konstruksi 078,Jawa,Bandung,Carmix,WhatsApp,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0651,2025-01-06,PT Mitra Konstruksi 652,Jawa,Semarang,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0559,2024-10-23, PT Mitra Konstruksi 560 ,Jawa, Jakarta , Crane ,E-mail,Sari  Rahmawati,Closed Lost,2024-10-25,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0421,2024-03-09,PT Mitra Konstruksi 422,Bali,Badung,Crane,Email,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0946,2026-04-05,PT Mitra Konstruksi 947,Jawa,Jakarta,Boom Lift,WhatsApp,Vino Jayrasta,Closed Lost,2026-04-08,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0927,2026-03-05,PT Mitra Konstruksi 928,Jawa,Gresik,Crane,Referral,Eko Kurniawan,Closed Lost,2026-03-09,2026-03-18,,,Negotiation,Price too high,5,1,1,1,0
+LD-0055,2022-10-19,PT Mitra Konstruksi 056,Sumatra,Palembang,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0628,2024-12-10,PT Mitra Konstruksi 629,Bali,Badung,Skylift,Website,Dewi Lestari,Closed Won,2024-12-15,2024-12-19,2024-12-25,20700000.0,,,4,1,1,1,1
+LD-0328,2023-11-18,PT Mitra Konstruksi 329,Sumatra,Medan,Crane,Email,Vino Jayrasta,Closed Lost,2023-11-21,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0164,2023-03-30,PT Mitra Konstruksi 165,Bali,Badung,Skylift,WhatsApp,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0709,2025-04-14,PT Mitra Konstruksi 710,Bali,Denpasar,Boom Lift,Referral,Dewi Lestari,Closed Lost,2025-04-19,2025-04-26,,,Negotiation,Price too high,5,1,1,1,0
+LD-0949,2026-04-14,PT Mitra Konstruksi 950,Sumatra,Palembang,Boom Lift,WhatsApp,Sari Rahmawati,Closed Lost,2026-04-17,2026-04-19,,,Negotiation,Price too high,5,1,1,1,0
+LD-0968,2026-05-01,PT Mitra Konstruksi 969,Jawa,Gresik,BOOM LIFT ,referal,Eko Kurniawan,Closed Lost,2026-05-07,2026-05-09,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0249,2023-08-17,PT Mitra Konstruksi 250,Jawa,Surabaya,SCISSOR LIFT,WHATSAPP,Budi Santoso,Closed Lost,2023-08-20,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0061,2022-10-23,PT MITRA KONSTRUKSI 062,Sumatra,Medan,Scissor Lift,Website,Sari Rahmawati,Closed Lost,28-Oct-2022,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0970,2026-05-19,PT Mitra Konstruksi 971,Jawa,Sidoarjo,Boom Lift,WhatsApp,Rina Wulandari,Closed Lost,2026-05-22,2026-05-26,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0003,2022-08-29,PT Mitra Konstruksi 004,Jawa,Surabaya,Scissor Lift,whatsapp,Vino Jayrasta,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0541,07-Sep-2024,PT Mitra Konstruksi 542,,,Scissor Lift,,,Closed Lost,2024-09-10,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0156,2023-03-03,PT Mitra Konstruksi 157,Jawa,Sidoarjo,ScissorLift,Web,Vino J.,Closed Lost,2023-03-06,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0188,2023-05-25,PT Mitra Konstruksi 189,Jawa,Bandung,Telehandler,Referral,Rina Wulandari,Closed Lost,2023-05-31,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0522,2024-08-05,PT Mitra Konstruksi 523,Sumatra,Batam,Crane,WhatsApp,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0838,2025-10-29,PT Mitra Konstruksi 839,Sumatra,Batam,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,2025-11-04,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0407,2024-03-12,PT Mitra Konstruksi 408,Jawa,Bandung,Crane,WhatsApp,Dewi Lestari,Closed Won,2024-03-18,2024-03-23,2024-03-30,22100000.0,,,4,1,1,1,1
+LD-0813,2025-09-24,  PT Mitra Konstruksi 814,Sumatra,Palembang,Boom  Lift,Referral,Rina Wulandari   ,Closed Lost,2025-09-29,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0666,2025-02-18, PT Mitra Konstruksi 667 ,Jawa,  Surabaya,  Scissor Lift,WhatsApp,Eko  Kurniawan,Closed Lost,2025-02-22,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0453,2024-05-02,PT Mitra Konstruksi 454,JAWA,Sidoarjo,Scissor Lift,Whatsapp,Budi Santoso,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0610,2024-12-23,PT Mitra Konstruksi 611,Jawa,Sidoarjo,Boom Lift,Google Ads,Dewi Lestari,Closed Lost,2024-12-27,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0752,2025-06-30,PT Mitra Konstruksi 753,Jawa,Jakarta,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0615,2024-12-20,PT Mitra Konstruksi 616,JAWA,Jakarta,Skylift,website,Andi Pratama,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0185,2023-05-18,PT Mitra Konstruksi 186,Jawa,Gresik,Crane,Google Ads,Budi Santoso,Closed Lost,2023-05-22,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0951,2026-04-14,PT Mitra Konstruksi 952,Sumatra,Palembang,Boom Lift,WhatsApp,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0058,2022-10-01,PT Mitra Konstruksi 059,Jawa,Bandung,Sky Lift,whatsapp,SARI RAHMAWATI,Lead In,,,,,,,1,1,0,0,0
+LD-0216,2023-06-21,PT Mitra Konstruksi 217,Bali,Gianyar,Scissor Lift,WhatsApp,Andi Pratama,Closed Lost,23/06/2023,2023-06-25,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-1021,2026-07-25,PT Mitra Konstruksi 1022,Bali,Gianyar,Crane,Email,Andi Pratama,Closed Won,2026-07-28,2026-08-04,2026-08-16,16100000.0,,,4,1,1,1,1
+LD-0849,2025-11-05,PT Mitra Konstruksi 850,jawa,Surabaya,scissor lift,WHATSAPP,Budi Santoso,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0149,2023-03-19,PT Mitra Konstruksi 150,,,CRANE,,,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0678,2025-02-07,PT Mitra Konstruksi 679,Jawa,Bandung,Boom Lift,Google Ads,Vino Jayrasta,Lead In,,,,,,,1,1,0,0,0
+LD-0113,2023-01-21,PT Mitra Konstruksi 114,Bali,Denpasar,Skylift,Email,Andi Pratama,Closed Lost,24.01.2023,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0257,2023-08-24,PT Mitra Konstruksi 258,Jawa,Bandung,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,2023-08-28,2023-09-05,,,Negotiation,Price too high,5,1,1,1,0
+LD-0571,2024-10-20,PT Mitra Konstruksi 572,Sumatra,Palembang,Boomlift,Google Adwords,Fajar Nugroho,Closed Won,2024-10-22,2024-10-30,2024-11-04,21200000.0,,,4,1,1,1,1
+LD-0822,2025-09-28,PT Mitra Konstruksi 823,Sumatra,Batam,Crane,Google Ads,Rina Wulandari,Closed Won,2025-09-30,2025-10-09,2025-10-14,31700000.0,,,4,1,1,1,1
+LD-0101,2022-12-19,PT Mitra Konstruksi 102,Jawa,Jakarta,Crane,Referral,Dewi Lestari,Closed Won,2022-12-21,2022-12-29,2023-01-04,21100000.0,,,4,1,1,1,1
+LD-0487,2024-06-11,PT  Mitra Konstruksi 488,Sumatra,Palembang,Boom  Lift,Google Ads,  Vino Jayrasta,Closed Lost,2024-06-17,2024-06-25,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0931,2026-03-19,PT Mitra Konstruksi 932,sumatra,Medan,boom lift,WHATSAPP,Budi Santoso,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0092,2022-12-23,PT Mitra Konstruksi 093,Jawa,Bandung,Scissor Lift,web site,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0627,10-Dec-2024,PT Mitra Konstruksi 628,Jawa,Sidoarjo,Scissor  Lift,web site,Eko Kurniawan,Closed Won,2024-12-14,16-Dec-2024,2024-12-18,7400000.0,,,4,1,1,1,1
+LD-0583,2024-11-07,PT Mitra Konstruksi 584,Sumatra,Palembang,Scissor Lift,Referral,Andi Pratama,Closed Lost,2024-11-08,,,,Quotation Sent,No response / went cold,5,1,1,0,0
+LD-0504,2024-07-29,PT Mitra Konstruksi 505,Bali,Denpasar,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2024-07-30,2024-08-02,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0629,2024-12-15,PT Mitra Konstruksi 630,Sumatra,Batam,Scissor Lift,Email,Dewi Lestari,Closed Lost,2024-12-21,2024-12-28,,,Negotiation,Price too high,5,1,1,1,0
+LD-0834,2025-10-03,PT  Mitra Konstruksi 835,Jawa,Jakarta   ,Boom  Lift,Google Ads,Rina  Wulandari,Closed Lost,2025-10-07,2025-10-11,,,Negotiation,Price too high,5,1,1,1,0
+LD-0494,2024-06-28,PT Mitra Konstruksi 495,Jawa,Jakarta,Boom Lift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0634,2025-01-29,PT Mitra Konstruksi 635,Bali,Gianyar,Crane,Website,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0787,2025-07-22,PT Mitra Konstruksi 788,Bali,Badung,Telehandler,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-1000,06.06.2026, PT Mitra Konstruksi 1001 ,Sumatra,Palembang   , Boom Lift ,WhatsApp,  Fajar Nugroho,Closed Lost,2026-06-12,14.06.2026,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0161,2023-03-18,PT Mitra Konstruksi 162,Jawa,Sidoarjo,Boom Lift,Website,Vino Jayrasta,Closed Lost,2023-03-24,2023-03-26,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0812,2025-09-09,PT Mitra Konstruksi 813,Bali,Gianyar,Boom Lift,WhatsApp,Vino Jayrasta,Closed Won,2025-09-15,2025-09-20,2025-09-27,30200000.0,,,4,1,1,1,1
+LD-0502,2024-07-10,PT Mitra Konstruksi 503,Jawa,Jakarta,Skylift,WhatsApp,Fajar Nugroho,Closed Lost,2024-07-15,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0180,2023-04-23,PT Mitra Konstruksi 181,Jawa,Semarang,Skylift,Website,Rina Wulandari,Closed Won,2023-04-27,2023-05-03,2023-05-13,29600000.0,,,4,1,1,1,1
+LD-0198,2023-05-01,  PT Mitra Konstruksi 199,Sumatra, Palembang ,boom lift,web site,Fajar  Nugroho,Closed Lost,2023-05-04,2023-05-06,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0106,2023-01-23,PT Mitra Konstruksi 107,Jawa,Semarang,Boom Lift,Referral,Sari Rahmawati,Closed Lost,2023-01-27,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0414,2024-03-27,PT Mitra Konstruksi 415,Jawa,Surabaya,Skylift,WhatsApp,Vino Jayrasta,Closed Lost,2024-03-28,2024-03-31,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0533,2024-08-05,  PT Mitra Konstruksi 534,Bali,  Denpasar,  Scissor Lift,Email,  Sari Rahmawati,Closed Lost,2024-08-07,2024-08-12,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0482,2024-06-04,PT Mitra Konstruksi 483,jawa,Semarang,scissor lift,google ads,Fajar Nugroho,closed lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0238,2023-07-27,PT Mitra Konstruksi 239,Bali,Gianyar,Scissor Lift,Website,Sari Rahmawati,Closed Lost,2023-08-01,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0492,2024-06-17,PT Mitra Konstruksi 493,Bali,Denpasar,SCISSOR LIFT,google ads,Rina Wulandari,Closed Lost,2024-06-19,21.06.2024,,,Negotiation,Price too high,5,1,1,1,0
+LD-0725,30.04.2025,PT Mitra Konstruksi 726,SUMATRA,Palembang,Scissor Lift,WEBSITE,Sari Rahmawati,closed lost,2025-05-06,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0184,2023-05-14,PT Mitra Konstruksi 185,Jawa,Sidoarjo,Scissor Lift,WhatsApp,Andi Pratama,Closed Won,2023-05-15,20.05.2023,2023-05-31,17600000.0,,,4,1,1,1,1
+LD-0183,2023-05-30,  PT Mitra Konstruksi 184,Jawa,Semarang,Boom Lift   ,Website,Sari  Rahmawati,Closed Lost,2023-06-03,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0890,2026-01-28,PT Mitra Konstruksi 891,Jawa,Semarang,Scissor Lift,WhatsApp,Rina Wulandari,Lead In,,,,,,,1,1,0,0,0
+LD-0356,2024-01-04,PT Mitra Konstruksi 357,Jawa,Gresik,Telehandler,WhatsApp,Fajar Nugroho,Closed Won,2024-01-07,2024-01-13,2024-01-21,16300000.0,,,4,1,1,1,1
+LD-0085,2022-12-08,PT Mitra Konstruksi 086,Bali,Gianyar,Telehandler,Google Ads,Fajar Nugroho,Closed Lost,2022-12-13,2022-12-15,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0572,2024-10-30,PT Mitra Konstruksi 573,Jawa,Surabaya,Crane,WhatsApp,Rina Wulandari,Closed Lost,2024-11-02,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0059,05/10/2022,PT Mitra Konstruksi 060,Bali,Badung,Boomlift,email,budi santoso,Closed Lost,2022-10-06,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0459,2024-05-26,PT Mitra Konstruksi 460,Jawa,Jakarta,Scissor Lift,Google Ads,Vino Jayrasta,Closed Lost,2024-05-28,,,,Quotation Sent,Chose competitor,5,1,1,0,0
+LD-0157,2023-03-22,PT Mitra Konstruksi 158,jawa,Surabaya,Skylift,whatsapp,Budi Santoso,lead in,,,,,,,1,1,0,0,0
+LD-0643,2025-01-11,  PT Mitra Konstruksi 644,Bali,  Denpasar, Boom Lift ,WhatsApp,Sari  Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0964,2026-04-06,PT Mitra Konstruksi 965,Bali,Badung,Skylift,WhatsApp,Andi Pratama,Closed Lost,09-Apr-2026,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-1005,2026-06-29,PT Mitra Konstruksi 1006,Jawa,Sidoarjo,Skylift,WhatsApp,Andi Pratama,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0839,2025-11-12,PT Mitra Konstruksi 840,Jawa,Bandung,Telehandler,Email,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0199,2023-05-23,PT Mitra Konstruksi 200,Jawa,Gresik,Boom Lift,Referral,Rina Wulandari,Closed Lost,2023-05-24,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0683,2025-02-16,PT Mitra Konstruksi 684,Jawa,Jakarta,boom lift,web site,andi pratama,Closed Lost,2025-02-17,2025-02-21,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0481,2024-06-25,PT Mitra Konstruksi 482,Jawa,Jakarta,Telehandler,Google Ads,Sari Rahmawati,Closed Won,2024-06-30,2024-07-09,17-Jul-2024,20600000.0,,,4,1,1,1,1
+LD-0176,2023-04-07,PT Mitra Konstruksi 177,JAWA,Sidoarjo,Boomlift,Google Adwords,vino jayrasta,Closed Won,2023-04-10,2023-04-13,2023-04-20,10000000.0,,,4,1,1,1,1
+LD-0204,2023-05-02,PT Mitra Konstruksi 205,Jawa,Surabaya,Telehandler,WhatsApp,Rina Wulandari,Closed Lost,2023-05-06,2023-05-09,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0694,2025-03-12,PT Mitra Konstruksi 695,Jawa,Bandung,Scissor Lift,Website,Budi Santoso,Closed Lost,2025-03-18,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0934,2026-03-19,PT Mitra Konstruksi 935,Jawa,Sidoarjo,Carmix,Google Ads,Sari Rahmawati,Lead In,,,,,,,1,1,0,0,0
+LD-0825,2025-10-04,PT Mitra Konstruksi 826,Jawa,Surabaya,Scissor Lift,Referral,Rina Wulandari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0759,2025-06-09,PT Mitra Konstruksi 760,Jawa,Sidoarjo,Carmix,WhatsApp,Andi Pratama,Closed Lost,2025-06-15,2025-06-18,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0336,2023-11-04,  PT Mitra Konstruksi 337,Jawa,Bandung,  CRANE,Google Ads, Eko Kurniawan ,closed lost,2023-11-05,2023-11-14,,,Negotiation,No response / went cold,5,1,1,1,0
+LD-0700,2025-03-06,PT Mitra Konstruksi 701,Sumatra,Palembang,Scissor Lift,Google Ads,Budi Santoso,Closed Lost,2025-03-10,2025-03-13,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0986,2026-05-14,PT Mitra Konstruksi 987,Jawa,Bandung,Crane,Google Ads,Vino Jayrasta,Closed Won,2026-05-20,2026-05-23,2026-06-01,40600000.0,,,4,1,1,1,1
+LD-0540,2024-09-16,PT Mitra Konstruksi 541,Jawa,Jakarta,Telehandler,Referral,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0673,2025-02-06,  PT Mitra Konstruksi 674,Bali,Denpasar   ,scissor lift   ,Website,Rina Wulandari   ,CLOSED LOST,2025-02-07,2025-02-13,,,Negotiation,Budget not approved,5,1,1,1,0
+LD-0753,19-Jun-2025,PT Mitra Konstruksi 754,Bali,Denpasar,Boom Lift,WhatsApp,Dewi Lestari,Lead In,,,,,,,1,1,0,0,0
+LD-0415,08-Mar-2024,PT Mitra Konstruksi 416,Sumatra,Palembang,Scissor Lift,WhatsApp,Fajar Nugroho,Closed Won,2024-03-09,2024-03-13,2024-03-15,5700000.0,,,4,1,1,1,1
+LD-0586,2024-11-30,PT Mitra Konstruksi 587,Jawa,Sidoarjo,Crane,WhatsApp,Budi Santoso,Closed Won,2024-12-04,2024-12-09,2024-12-12,38800000.0,,,4,1,1,1,1
+LD-0622,2024-12-09,PT Mitra Konstruksi 623,Jawa,Bandung,Skylift,Email,Fajar Nugroho,Closed Won,2024-12-12,2024-12-18,2024-12-26,22200000.0,,,4,1,1,1,1
+LD-0636,2025-01-26,PT Mitra Konstruksi 637,Bali,Badung,Boom Lift,Website,Fajar Nugroho,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0981,12/05/2026,PT Mitra Konstruksi 982,Bali,Denpasar,Skylift,WhatsApp,Dewi Lestari,Closed Lost,2026-05-15,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0209,25/06/2023,PT Mitra Konstruksi 210,,,Boom Lift,,,Lead In,,,,,,,1,1,0,0,0
+LD-0947,2026-04-16,PT Mitra Konstruksi 948,Jawa,Semarang,Skylift,WhatsApp,Sari Rahmawati,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0147,2023-03-06,PT Mitra Konstruksi 148,Sumatra,Palembang,Scissor Lift,WhatsApp,Vino Jayrasta,Closed Lost,2023-03-08,2023-03-16,,,Negotiation,Price too high,5,1,1,1,0
+LD-0448,2024-05-15,PT Mitra Konstruksi 449,Jawa,Semarang,Skylift,WhatsApp,Andi Pratama,Closed Won,2024-05-19,2024-05-21,2024-05-26,27013.0,,,4,1,1,1,1
+LD-0420,2024-03-24,PT Mitra Konstruksi 421,Jawa,Sidoarjo,TELEHANDLER,GOOGLE ADS,Andi Pratama,Closed Won,2024-03-29,2024-04-02,2024-04-06,16400000.0,,,4,1,1,1,1
+LD-0090,2022-12-04,PT Mitra Konstruksi 091,Bali,Denpasar,Crane,WhatsApp,Budi Santoso,Closed Lost,2022-12-10,2022-12-17,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0083,2022-12-03,PT Mitra Konstruksi 084,Jawa,Bandung,Boom Lift,Google Ads,Sari Rahmawati,Closed Lost,2022-12-05,2022-12-14,,,Negotiation,Project postponed/cancelled,5,1,1,1,0
+LD-0385,2024-02-19,PT Mitra Konstruksi 386,Jawa,Semarang,Scissor Lift,Website,Andi Pratama,Closed Lost,25/02/2024,,,,Quotation Sent,Budget not approved,5,1,1,0,0
+LD-0460,2024-05-02,PT Mitra Konstruksi 461,Jawa,Jakarta,Crane,Google Ads,Dewi Lestari,Closed Lost,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0419,2024-03-16,PT Mitra Konstruksi 420   ,Jawa,  Semarang,Boom  Lift,WhatsApp, Vino Jayrasta ,Closed Lost,2024-03-22,2024-03-30,,,Negotiation,Chose competitor,5,1,1,1,0
+LD-0474,2024-06-07,PT Mitra Konstruksi 475,jawa,Surabaya,CRANE,Website,Andi Pratama,CLOSED LOST,,,,,Lead In,No response / went cold,5,1,0,0,0
+LD-0050,2022-10-10,PT Mitra Konstruksi 051,sumatra,Medan,BOOM LIFT,whatsapp,Dewi Lestari,Closed Lost,2022-10-12,,,,Quotation Sent,Price too high,5,1,1,0,0
+LD-0279,2023-09-11,PT Mitra Konstruksi 280,Sumatra,Batam,Skylift,Email,Eko Kurniawan,Closed Lost,14/09/2023,,,,Quotation Sent,Project postponed/cancelled,5,1,1,0,0
+LD-0433,2024-04-04,PT Mitra Konstruksi 434,Bali,Badung,Crane,Email,Budi Santoso,Closed Lost,2024-04-07,,,,Quotation Sent,Chose competitor,5,1,1,0,0
