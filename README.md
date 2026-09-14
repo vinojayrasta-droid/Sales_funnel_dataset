@@ -62,7 +62,7 @@ WHERE ctid NOT IN (
 
 ## 2. Dashboard (Power BI)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](image/dashboard_overview.png)
 
 The dashboard includes:
 - **KPI cards:** Total Leads, Total Closed Won, Overall Win Rate, Total Deal Value, Average Deal Size
